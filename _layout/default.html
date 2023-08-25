@@ -23,6 +23,7 @@
           {% for item in site.data.navigation.docs %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
+          <li>Test</li>
         </ul>
 
         {% if site.github.is_project_page %}
@@ -37,9 +38,11 @@
       </header>
 
       <section>
+        <ul>
         {% for item in site.data.navigation.docs %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
+        </ul>
         {{ content }}
       </section>
 

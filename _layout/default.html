@@ -37,6 +37,9 @@
       </header>
 
       <section>
+        {% for item in site.data.navigation.docs %}
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
         {{ content }}
       </section>
 

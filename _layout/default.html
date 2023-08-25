@@ -19,14 +19,12 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <ul>
+        <ul class="header">
           {% for item in site.data.navigation.docs %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
           <li>Test</li>
         </ul>
-
-        <h2>TEST</h2>
 
         {% if site.github.is_project_page %}
           <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>

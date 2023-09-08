@@ -20,6 +20,7 @@ Aside from stats, characters also have aspects and assets. Aspects are backgroun
 ## Character Creation
 
 ### Stats
+
 Roll or choose your stats
 
 D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
@@ -73,7 +74,8 @@ D12 | What are you looking for
 
 ### Assets
 
-Roll 3 times for each asset
+You start with 2 assets. Roll 3 times for each
+
 D12 | thingy     | thing      | of  | stuff
 :-: | :-:        | :-:        | :-: | :-:
 1   | Mechanical | Stopwatch  | of  | Shrinking

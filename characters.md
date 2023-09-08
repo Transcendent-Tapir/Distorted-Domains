@@ -21,7 +21,8 @@ Aside from stats, characters also have aspects and assets. Aspects are backgroun
 
 Roll or choose your stats
 
-D12 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
-Strong | d4 | d4
-Skillful | d4 | d10 
-Smart | d10 | d4
+D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
+ :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+Strong   | d4  | d4  | d10 | d8  | d8  | d6  | d4  | d6  | d4  | d6
+Skillful | d4  | d10 | d4  | d6  | d4  | d8  | d8  | d4  | d6  | d6
+Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6

@@ -7,10 +7,21 @@ Characters in Distorted Domains have 3 stats. Strong, Skillful, and Smart. These
 - Smart is using a thoughtful, careful, or knowledgeable approach
 
 Each stat will have a die rating, ranging from d4 to d12, but probably somewhere in the middle.
+d4 represents a below average ability. d6 is average, d8 is good, d10 is excellent, and d12 is astonishingly good.
 Each stat also has a harm track associated with it that starts at a d4.
 When you roll and get a failure or success with consequences, one of your harm tracks will be stepped up.
 Which harm track gets advanced depends on what is happening within the fiction.
 Harm tracks represent the fatigue, stress, and injuries that your character accumulates as they go on their adventure.
 The die in your harm track is also used in the oppositions dice pool. If you use strong, the opposition pool gets your Strong harm die.
 
-Aside from stats, characters also have aspects and assets. Aspects are background details, personality traits, beliefs, and goals. Your character will likely have positive and negative aspects. Assets are physical things that your character carries with them. All aspects and assets have a die rating, just like stats. Negative aspects will add a die to the opposition pool, while positive aspects and assets will add dice to the players dice pool when they make a roll
+Aside from stats, characters also have aspects and assets. Aspects are background details, personality traits, beliefs, and goals. Your character will likely have positive and negative aspects. Assets are physical things that your character carries with them. All aspects and assets have a die rating, just like stats. Negative aspects will add a die to the opposition pool, while positive aspects and assets will add dice to the players dice pool when they make a roll.
+
+
+## Character Creation
+
+Roll or choose your stats
+
+D12 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Strong | d4 | d4
+Skillful | d4 | d10 
+Smart | d10 | d4

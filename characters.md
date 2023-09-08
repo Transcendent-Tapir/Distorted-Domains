@@ -33,9 +33,9 @@ Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 D10 | Personality Trait
 :-: | :-:
 1   | Brutish
-2   | Meek
+2   | Cautious
 3   | Clever
-4   | Impatient
+4   | Determined
 5   | Cheerful
 6   | Diplomatic
 7   | Hopeful

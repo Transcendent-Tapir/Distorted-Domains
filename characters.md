@@ -74,7 +74,7 @@ D12 | What are you looking for
 ### Assets
 
 Roll 3 times for each asset
-D12 | -          | -          | of  | -
+D12 | thingy     | thing      | of  | stuff
 :-: | :-:        | :-:        | :-: | :-:
 1   | Mechanical | Stopwatch  | of  | Shrinking
 2   | Silver     | Dagger     | of  | Memory

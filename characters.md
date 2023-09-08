@@ -30,11 +30,37 @@ Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 
 ### Aspects
 
+D10 | Personality Trait
+:-: | :-:
+1   | Brutish
+2   | Meek
+3   | Clever
+4   | Impatient
+5   | Cheerful
+6   | Diplomatic
+7   | Hopeful
+8   | Resourceful
+9   | Focused
+10  | Eager
+
+D12 | Job
+:-: | :-:
+1   | Chef
+2   | Cartographer
+3   | Inventor
+4   | Mechanic
+5   | Hunter
+6   | Pirate
+7   | Biologist
+8   | Mage
+9   | Student
+10  | Mercenary
+
 D12 | What are you looking for
 :-: | :-------:
 1   | Riches
 2   | Power
-3   | Knowledge
+3   | Knowledgea
 4   | Glory
 5   | Revenge
 6   | Home

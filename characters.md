@@ -19,6 +19,7 @@ Aside from stats, characters also have aspects and assets. Aspects are backgroun
 
 ## Character Creation
 
+### Stats
 Roll or choose your stats
 
 D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
@@ -26,3 +27,20 @@ D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10
 Strong   | d4  | d4  | d10 | d8  | d8  | d6  | d4  | d6  | d4  | d6
 Skillful | d4  | d10 | d4  | d6  | d4  | d8  | d8  | d4  | d6  | d6
 Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
+
+### Aspects
+
+D12 | What are you looking for
+:-: | :-------:
+1   | Riches
+2   | Power
+3   | Knowledge
+4   | Glory
+5   | Revenge
+6   | Home
+7   | Purpose
+8   | Destiny
+9   | Love
+10  | Peace
+11  | Connection
+12  | Experience

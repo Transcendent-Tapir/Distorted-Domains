@@ -43,7 +43,7 @@ D10 | Personality Trait
 9   | Focused
 10  | Eager
 
-D12 | Job
+D10 | Job
 :-: | :-:
 1   | Chef
 2   | Cartographer
@@ -51,7 +51,7 @@ D12 | Job
 4   | Mechanic
 5   | Hunter
 6   | Pirate
-7   | Biologist
+7   | Scientist
 8   | Mage
 9   | Student
 10  | Mercenary
@@ -70,3 +70,21 @@ D12 | What are you looking for
 10  | Peace
 11  | Connection
 12  | Experience
+
+### Assets
+
+Roll 3 times for each asset
+D12 | -          | -          | of  | -
+:-: | :-:        | :-:        | :-: | :-:
+1   | Mechanical | Stopwatch  | of  | Shrinking
+2   | Silver     | Dagger     | of  | Memory
+3   | Crystal    | Helmet     | of  | Dinosaurs
+4   | Vapor      | Canon      | of  | Nanobots
+5   | Aether     | Gauntlet   | of  | Time
+6   | Frozen     | Shield     | of  | Foresight
+7   | Miniature  | Sword      | of  | Mutation
+8   | Flaming    | Hammer     | of  | Tentacles
+9   | Feathered  | Potion     | of  | Insects
+10  | Living     | Ring       | of  | Spores
+11  | Particle   | Boots      | of  | Lasers
+12  | Cursed     | Axe        | of  | Speed

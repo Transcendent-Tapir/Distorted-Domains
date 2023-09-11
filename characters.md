@@ -74,7 +74,7 @@ D12 | What are you looking for
 
 You can set all your aspects to d6, or lower one of them to d4 in order to raise another to d8.
 
-D12 | What trouble follows you?
+D6  | What trouble follows you?
 :-: | :-:
 1   | Debt
 2   | You Wronged someone close to you

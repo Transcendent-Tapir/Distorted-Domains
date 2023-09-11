@@ -72,6 +72,15 @@ D12 | What are you looking for
 11  | Connection
 12  | Experience
 
+D12 | What trouble follows you?
+:-: | :-:
+1   | Debt
+2   | You Wronged someone close to you
+3   | An oath you have yet to fulfil
+4   | A lost love
+5   | An addiction
+6   | A worsening condition
+
 ### Assets
 
 You start with 2 assets. Roll 3 times for each

@@ -87,7 +87,7 @@ Trouble is a negative aspect and starts at a d6
 
 ### Assets
 
-You start with 2 d6 assets. Roll 3 times for each
+You start with 2 assets, roll 3 times for each. Then set them both to d6 or one to d4 and one to d8.
 
 D12 | thingy     | thing      | of  | stuff
 :-: | :-:        | :-:        | :-: | :-:

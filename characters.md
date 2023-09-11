@@ -72,6 +72,8 @@ D12 | What are you looking for
 11  | Connection
 12  | Experience
 
+You can set all your aspects to d6, or lower one of them to d4 in order to raise another to d8.
+
 D12 | What trouble follows you?
 :-: | :-:
 1   | Debt
@@ -81,9 +83,11 @@ D12 | What trouble follows you?
 5   | An addiction
 6   | A worsening condition
 
+Trouble is a negative aspect and starts at a d6
+
 ### Assets
 
-You start with 2 assets. Roll 3 times for each
+You start with 2 d6 assets. Roll 3 times for each
 
 D12 | thingy     | thing      | of  | stuff
 :-: | :-:        | :-:        | :-: | :-:

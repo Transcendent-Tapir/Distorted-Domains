@@ -103,3 +103,11 @@ D12 | thingy     | thing      | of  | stuff
 10  | Living     | Ring       | of  | Spores
 11  | Particle   | Boots      | of  | Lasers
 12  | Cursed     | Axe        | of  | Speed
+13  | Shining    | Scissors   | of  | Light
+14  | Spiked     | Skillet    | of  | Song
+15  | Hairy      | Trombone   | of  | Shadow
+16  | Bone       | Chainsaw   | of  | the Void
+17  | Venomous   | Spatula    | of  | Shrinking
+18  | Delicious  | Chain      | of  | Meat
+19  | Floating   | Teapot     | of  | Shedding
+20  | Bedazzled  | Lantern    | of  | Regeneration

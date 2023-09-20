@@ -74,6 +74,10 @@ D12 | What are you looking for
 
 You can set all your aspects to d6, or lower one of them to d4 in order to raise another to d8.
 
+### Negative Aspects
+
+You get 2 negative aspects. Negative aspects add a die to the opponents pool. Roll on the tables below or create your own
+
 D6  | What trouble follows you?
 :-: | :-:
 1   | Debt
@@ -83,7 +87,14 @@ D6  | What trouble follows you?
 5   | An addiction
 6   | A worsening condition
 
-Trouble is a negative aspect and starts at a d6
+D6  | What are you afraid of
+:-: | :-:
+1   | Death
+2   | Being Alone
+3   | Being Forgotten
+4   | Fate
+5   | Losing myself
+6   | Harm coming to those I care about
 
 ### Assets
 

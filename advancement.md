@@ -1,3 +1,8 @@
 # Advancement
 
-Advancement in Distorted Domains uses an Advancement Die. 
+Advancement in Distorted Domains uses advancement points
+points are gained by:
+Recovering from harm
+Rolling a negative aspect
+Working toward your individual goals
+Accomplishing something major in an adventure

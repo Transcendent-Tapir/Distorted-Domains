@@ -7,44 +7,19 @@ There will be example domains as well as spark tables to create your own domains
 Spark Table:
 
 
-Descriptor
-Bubble
-Crystal
-Neon
-Vapor
-Mechanical
-Dreary
-Grassy
-Abandoned
-Golden
-Towering
-Sunken
-Frozen
+D12 | Descriptor | Type    | Place  |
+:-: | :-:        | :-:     | :-:
+1   | Bubble     | Castle  | At the Ocean Floor
+2   | Crystal    | Island  | In Space
+3   | Neon       | Temple  | Inside a Star
+4   | Vapor      | Farm    | On the back of a Giant Beast
+5   | Mechanical | Tower   | Outside of Time
+6   | Dreary     | City    | Inside a Volcano
+7   | Grassy     | Ship    | Atop a giant flower
+8   | Abandoned  | Factory | In an enhanted forest
+9   | Golden     | Cavern  | In a simulated reality
+10  | Towering   | Village | At the edge of a cliff to the abyss
+11  | Sunken     | Lighthouse | In a Bog of fungus and twisted roots
+12  | Frozen     | Amusement Park | In a mountain pass
 
-Type
-Castle
-Island
-Manor
-Farm
-Town
-City
-Ship
-Factory
-Cavern
-Village
-Lighthouse
-Amusement Park
 
-Place
-At the ocean floor
-In Space
-Inside a star
-On a giant beasts back
-Outside of time
-In a volcano
-Atop a giant flower
-In an enchanted forest
-At the edge of a cliff to the abyss
-In a simulated reality
-In a swamp
-In a mountain pass

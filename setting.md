@@ -6,11 +6,45 @@ There will be example domains as well as spark tables to create your own domains
 
 Spark Table:
 
-D6  | Thingy   | Place  | of  | People
-:-: | :----:   | :---:  | :-: | :-:
-1   | Floating | Castle | of  | Intelligent Insects
-2   | Flying   | Island | of  | Dinosaurs
-3   | Mechanical | Restaurant | of | Robots
-4   | Underwater | City | of | Orcas
-5   | Crystalline | Cave | of | Monks
-6   | Neon     | Ship   | of  | Cephalopods
+
+Descriptor
+Bubble
+Crystal
+Neon
+Vapor
+Mechanical
+Dreary
+Grassy
+Abandoned
+Golden
+Towering
+Sunken
+Frozen
+
+Type
+Castle
+Island
+Manor
+Farm
+Town
+City
+Ship
+Factory
+Cavern
+Village
+Lighthouse
+Amusement Park
+
+Place
+At the ocean floor
+In Space
+Inside a star
+On a giant beasts back
+Outside of time
+In a volcano
+Atop a giant flower
+In an enchanted forest
+At the edge of a cliff to the abyss
+In a simulated reality
+In a swamp
+In a mountain pass

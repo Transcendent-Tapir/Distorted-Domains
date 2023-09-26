@@ -22,4 +22,14 @@ D12 | Descriptor | Type    | Place  |
 11  | Sunken     | Lighthouse | In a Bog of fungus and twisted roots
 12  | Frozen     | Amusement Park | In a mountain pass
 
+D8  | Person | Needs help to | this thing
+:-: | :----: | :-----------: | :-----------:
+1   | Wizard | Destroy       | Sentient Slime
+2   | Farmer | Save          | Earth Elemental
+3   | Miner  | Blackmail     | Energy Slug
+4   | Fairy  | Court         | Manifestation of their fear
+5   | Squid  | Locate        | Void Being
+6   | Knight  | Extract      | Out of control killer robot
+7   | Lost Soul | Befriend   | Three goblins in a trenchcoat
+8   | Wanderer  | Devour     | Shadow that slowly consumes everything
 

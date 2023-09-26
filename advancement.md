@@ -17,11 +17,13 @@ Things you can do with your advancement points
 raising a die to a higher level requires more advancement points the higher you want it to go
 
 ### Stats
+
  D4 -> D6 | D6 -> D8 | D8 -> D10 | D10 -> D12
  :------: | :------: | :-------: | :--------:
  10       | 15       | 20        | 25
 
 ### Raising Aspects
+
 New D4 Aspect | D4 -> D6 | D6 -> D8 | D8 -> D10 | D10 -> D12
 :-----------: | :------: | :------: | :-------: | :--------:
 5             | 10       | 15       | 20        | 25

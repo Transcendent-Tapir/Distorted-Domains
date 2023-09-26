@@ -16,7 +16,7 @@ If you beat the opposition you succeed at what you were trying to do. If you bea
 
 ### Taking Harm
 
-When an action results in a mixed success or a failure, raise a harm die to the next die level. Which one should be applicable to the negative consequences within the narrative. If a harm die would be raised above a d12, then your character is incapaciated and can no longer take action until the next scene. In addition, they take on or raise a negative aspect. If a negative aspect is raised above a d12, your character is retired.
+When an action results in a mixed success or a failure, raise a harm die to the next die level. The harm die raised will be the one from the harm track that matches the stat being rolled. If a harm die would be raised above a d12, then your character is incapaciated and can no longer take action until the next scene. In addition, they take on or raise a negative aspect. If a negative aspect is raised above a d12, your character is retired.
 
 ### Pushing your luck
 
@@ -24,6 +24,8 @@ In situations that are dire, you can push yourself for a greater chance at succe
 
 ### Reducing Harm
 
-Taking a few moments to rest allows your character to reduce a harm die by one die size. This costs you some time, but depending on the situation, this can have negative consequences, and in dire situations may not be an option at all.
+Taking a few moments to rest allows your character to reduce a harm die by one die size. This costs you some time, but depending on the situation, this can have negative consequences, and in dire situations may not be an option at all. Each day, you can do this once for each harm track.
 
 You can also reduce the harm die by taking an action to do so, but this requires a roll. If you are reducing your own harm die, the opposition pool will use the harm die twice. If you are reducing another characters harm die, the opposition pool will use their harm die as well as your own. The narrator can also add in any relevant die for the situation at hand to the opposition pool. On a success reduce the harm die by one, on a critical success reduce it by two, on a mixed success you can reduce the target harm die by one, but you must also raise the die of a different harm track, on a fail you make it worse and raise the harm die by one.
+
+If you stop to rest for an extended period of time, such as overnight, you can reduce each harm track by one. At the end of an adventure, you can reduce all harm tracks to d4.

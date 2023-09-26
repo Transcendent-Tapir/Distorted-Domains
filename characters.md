@@ -100,7 +100,7 @@ D6  | What are you afraid of
 
 You start with 2 assets, roll 3 times for each. Then set them both to d6 or one to d4 and one to d8.
 
-D12 | thingy     | thing      | of  | stuff
+D20 | thingy     | thing      | of  | stuff
 :-: | :-:        | :-:        | :-: | :-:
 1   | Mechanical | Stopwatch  | of  | Shrinking
 2   | Silver     | Dagger     | of  | Memory

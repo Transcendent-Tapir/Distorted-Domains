@@ -4,8 +4,7 @@ Distorted domains is an anti-canon setting where anything goes. The central idea
 Domains could be something like the underwater city run by the Orca mafia, a floating dinosaur village in Jupiter's upper atmosphere, or the Cavern of the singing Crystal sages. 
 There will be example domains as well as spark tables to create your own domains and adventures.
 
-Spark Table:
-
+#### Setting Spark Table:
 
 D12 | Descriptor | Type    | Place  |
 :-: | :-:        | :-:     | :-:
@@ -21,6 +20,8 @@ D12 | Descriptor | Type    | Place  |
 10  | Towering   | Village | At the edge of a cliff to the abyss
 11  | Sunken     | Lighthouse | In a Bog of fungus and twisted roots
 12  | Frozen     | Amusement Park | In a mountain pass
+
+#### Scenario Spark Table:
 
 D8  | Person | Needs help to | this thing
 :-: | :----: | :-----------: | :-----------:

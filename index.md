@@ -4,4 +4,6 @@ I'm making this game with the goal of being able to play across a variety of gen
 
 Distorted Domains is still under development and is not currently in a playable state, but you can choose to use what is there to inspire your own games if you wish.
 
+I have also made a [Google Sheets Character Keeper](https://docs.google.com/spreadsheets/d/1iD2N3VkBVdb9CuRejHPc5lP251gvXEScqiSs3g6OBUU/edit?usp=sharing) to use for playtesting the game. It will be updated as the game changes, but I can't guarantee that changes to the game will be reflected on the character keeper right away.
+
 Distorted Domains uses the CC-BY-SA-4.0 license. Use the game howevever you like. Hack it, extend it, make content for it. Just so long as you give proper attribution and share your derived work with an open license as well.

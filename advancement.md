@@ -10,6 +10,7 @@ Inspiration is gained from
 - Taking harm
 - Helping an ally recover from harm
 - Rolls that use a negative aspect
+- As a possible bonus from a critical success
 
 #### Using Inspiration
 

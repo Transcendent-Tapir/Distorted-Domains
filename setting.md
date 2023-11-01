@@ -34,3 +34,6 @@ D8  | Person | Needs help to | this thing
 7   | Lost Soul | Befriend   | Three goblins in a trenchcoat
 8   | Wanderer  | Devour     | Shadow that slowly consumes everything
 
+### The Spire
+
+A glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. At the bottom is a thriving city full of aquatic mammals run by the orca mafia. Inside lies only mystery.

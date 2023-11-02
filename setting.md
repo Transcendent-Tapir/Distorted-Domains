@@ -54,6 +54,6 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 
 [table of people/organizations and work they need done]
 
-### Chronos Station
+### Hawking Station
 
 A space station orbiting a black hole beyond its event horizon. The layout feels ever shifting and time can move faster or slower depending on what room you're in. The station is occupied by sentient dinosaurs who have no recollection of who built the station or how they got there.

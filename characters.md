@@ -21,7 +21,7 @@ Aside from stats, characters also have aspects and assets. Aspects are backgroun
 
 ### Stats
 
-Each Column 1-10 represents a potential set of stats that you can have. Select or roll your stats from the table below
+Each Column 1-10 represents a potential set of stats that you can have. Select or roll a d10 for your stats from the table below
 
 D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
  :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
@@ -36,7 +36,7 @@ D10 | I'm a(n)           | From
 1   | Cyborg             | A high-tech city
 2   | Shapeshifter       | An enchanted forest
 3   | Elf                | A bubble
-4   | Sea Creature       | The streets
+4   | Crustacean         | The streets
 5   | Undead Being       | A humble farming town
 6   | Goblin             | The darkness
 7   | Cephalopod         | A space station

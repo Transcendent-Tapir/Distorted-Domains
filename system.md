@@ -33,3 +33,7 @@ If you stop to rest for an extended period of time, such as overnight, you can r
 ### Harm for NPCs
 
 NPCs do not have a harm track. If the NPC has stats, their stats get lowered as they take harm, if the NPC does not have stats, they will likely just have one die rating that will get lowered as they take harm. If they take harm at a d4, then the NPC is incapacitated, or otherwise loses the engagement and the PCs get what they want.
+
+### Helping an ally
+
+If you want to help an ally with their action, you can use your stat die to do so. The harm die used in the opposition pool is still the one of the primary character doing the action. If the action fails, both characters take harm. You cannot push your luck while assisting, but the primary character has that option.

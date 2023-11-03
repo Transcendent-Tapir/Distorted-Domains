@@ -31,6 +31,8 @@ Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 
 ### Aspects
 
+You start with 3 positive aspects. Roll or select from the tables below, you can also create your own if you wish.
+
 D12 | I'm a(n)           | From
 :-: | :----------------: | :-:
 1   | Cyborg             | A high-tech city

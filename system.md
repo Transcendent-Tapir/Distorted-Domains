@@ -36,4 +36,4 @@ NPCs do not have a harm track. If the NPC has stats, their stats get lowered as 
 
 ### Helping an ally
 
-If you want to help an ally with their action, you can use your stat die to do so. The harm die used in the opposition pool is still the one of the primary character doing the action. If the action fails, both characters take harm. You cannot push your luck while assisting, but the primary character has that option.
+If you want to help an ally with their action, you can use a stat or aspect die to do so. The harm die used in the opposition pool is still the one of the primary character doing the action. If the action fails, both characters take harm. You cannot push your luck while assisting, but the primary character has that option.

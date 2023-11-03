@@ -31,7 +31,7 @@ Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 
 ### Aspects
 
-D10 | I'm a(n)           | From
+D12 | I'm a(n)           | From
 :-: | :----------------: | :-:
 1   | Cyborg             | A high-tech city
 2   | Shapeshifter       | An enchanted forest
@@ -46,18 +46,20 @@ D10 | I'm a(n)           | From
 11  | Duck               | An elaborate cave network
 12  | Mermaid            | A foggy marsh
 
-D10 | I'm Known as a(n)| Job
+D12 | I'm Known as a(n)| Job
 :-: | :--------------: | :-:
 1   | Brutish          | Chef             
 2   | Cautious         | Cartographer     
 3   | Determined       | Inventor         
-4   | Cheerful         | Mechanic         
-5   | Diplomatic       | Hunter           
-6   | Hopeful          | Pirate
+4   | Mystical         | Mechanic         
+5   | Inventive        | Hunter           
+6   | Charismatic      | Pirate
 7   | Resourceful      | Scientist
 8   | Focused          | Mage
-9   | Eager            | Student
+9   | Reckless         | Student
 10  | Cheerful         | Mercenary
+11  | Mad              | Healer
+12  | Boastful         | Musician
 
 
 D12 | I'm looking for

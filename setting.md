@@ -62,7 +62,7 @@ A space station orbiting a black hole beyond its event horizon. The layout feels
 
 ### Murky Mire
 
-A village in an acidic swamp with carnivorous trees
+A village in an acidic swamp with carnivorous trees. People mostly live in huts raised above the deadly water. The wildlife is large and dangerous. You will see giant insects, amphibians, and reptiles that the denizens have learned to avoid or live along side of.
 
 ### Gastropolis
 

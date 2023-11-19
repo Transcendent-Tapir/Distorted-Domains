@@ -20,4 +20,6 @@ control room
 
 Gastropolis
 
+The wild remains
+
 Badlands with settlements built around the ruins of ancient civilizations and the bones of fallen monsters

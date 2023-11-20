@@ -1,5 +1,4 @@
-The Spire
-Notable locations
+## The Spire
 
 upper Spire
 
@@ -8,18 +7,18 @@ lower Spire
 base city
 
 
-Murky Mire
+## Murky Mire
 
 The Village
 
 The eternal bough
 
-Hawking station
+## Hawking station
 
 control room
 
-Gastropolis
+## Gastropolis
 
-The wild remains
+## The wild remains
 
 Badlands with settlements built around the ruins of ancient civilizations and the bones of fallen monsters

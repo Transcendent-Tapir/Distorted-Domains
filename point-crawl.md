@@ -94,6 +94,17 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Retrieve a thing
 - Protect a thing
 
+#### Things
+
+- Family Heirloom
+- Stolen Artifact
+- Distant Relative
+- Rare Jewel
+- Message
+- Key Eyewitness
+- Tome of lost knowledge
+- Key
+
 #### Complications
 
 - Somebody else wants it

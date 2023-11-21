@@ -45,7 +45,7 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Hydrothermal Vents
 - Orb
 - Ship Graveyard
-- 
+- Caverns with intricately carved walls
 
 ### Modifiers
 

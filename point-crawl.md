@@ -55,6 +55,8 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Teleporting
 - Glowing
 - Ethereal
+- Infinite
+- Decomposing
 
 ### Base city
 
@@ -84,6 +86,20 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Indifferent
 - Sad
 - Excited
+
+#### Jobs
+
+- Find a thing
+- Deliver a thing
+- Retrieve a thing
+- Protect a thing
+
+#### Complications
+
+- Somebody else wants it
+- It's in a dangerous location
+- It's always trying to escape
+- It turns into something dangerous
 
 ## Murky Mire
 

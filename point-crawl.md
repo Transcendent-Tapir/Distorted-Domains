@@ -1,3 +1,6 @@
+---
+title: Point Crawl
+---
 ## The Spire
 
 A glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. At the bottom is a thriving city full of aquatic mammals run by the orca mafia. Inside lies only mystery.

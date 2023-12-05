@@ -1,6 +1,7 @@
 ---
 title: Running the Game
 ---
+# Running the Game
 
 ### Obstacles
 

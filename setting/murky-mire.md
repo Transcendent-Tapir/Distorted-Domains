@@ -2,7 +2,7 @@
 title: Murky Mire
 ---
 
-## Murky Mire
+## Shimmering Fen
 
 A village in an acidic swamp with carnivorous trees. People mostly live in huts raised above the deadly water. The wildlife is large and dangerous. You will see giant insects, amphibians, and reptiles that the denizens have learned to avoid or live along side of.
 
@@ -38,3 +38,7 @@ A village in an acidic swamp with carnivorous trees. People mostly live in huts 
 - Spider Monkey
 - Mothipede
 - Magpie-squito
+
+### The Smoldering Caves
+
+At the edge of the swamp, is the mouth of a cave that goes into the side of an unfathomably high mountain. The side of the mountain is sheer and impossible to climb. The water in the cave is less acidic, and it's home to a number of bioluminescent fungi. Deep in the caves are vents that release a mineral rich smoke, heating the cave and providing nutrients to the life within it, but making it hard to breathe for those that aren't adapted

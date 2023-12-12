@@ -103,7 +103,7 @@ D46 | 1              | 2                  | 3                   | 4
 
 ### Assets
 
-You start with 2 assets. For each asset, roll a d4 and a d6 on the table below. Roll once per column for each asset. You can also simply use the table for inspiration and create your own assets. Set both assets to d6 or one to d4 and one to d8.
+You start with 2 assets. For each asset, roll a d4 and a d6 on the table below, using the d4 for the 10s place and the d6 for the 1s placr. Roll once per column for each asset. You can also simply use the table for inspiration and create your own assets. Set both assets to d6 or one to d4 and one to d8.
 
 D46 | thingy     | thing      | of  | stuff
 :-: | :-:        | :-:        | :-: | :-:

@@ -33,20 +33,24 @@ Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 
 You start with 3 positive aspects. Roll or select from the tables below, you can also create your own if you wish.
 
-D12 | I'm a(n)           | From
+D44 | I'm a(n)           | From
 :-: | :----------------: | :-:
-1   | Cyborg             | A high-tech city
-2   | Shapeshifter       | An enchanted forest
-3   | Elf                | A bubble
-4   | Crustacean         | The streets
-5   | Undead Being       | A humble farming town
-6   | Goblin             | The darkness
-7   | Cephalopod         | A space station
-8   | Human              | A plane of fire
-9   | Sentient Mannequin | The deep sea
-10  | Alien              | A magnificent Kingdom
-11  | Duck               | A complex cave system
-12  | Mermaid            | A foggy marsh
+11  | Cyborg             | A high-tech city
+12  | Shapeshifter       | An enchanted forest
+13  | Elf                | A bubble
+14  | Crustacean         | The streets
+21  | Undead Being       | A humble farming town
+22  | Goblin             | The darkness
+23  | Cephalopod         | A space station
+24  | Human              | A plane of fire
+31  | Sentient Mannequin | The deep sea
+32  | Alien              | A magnificent Kingdom
+33  | Duck               | A complex cave system
+34  | Mermaid            | A foggy marsh
+41  | Cryptid            | A sleept seaside village
+42  | Demon              | A floating island
+43  | Centaur            | The eternal road
+44  | Shaved Bear        | Twisting catacombs
 
 D12 | I'm Known as a(n)| Job
 :-: | :--------------: | :-:

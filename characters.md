@@ -105,25 +105,30 @@ D46 | 1              | 2                  | 3                   | 4
 
 You start with 2 assets, roll 3 times for each. Then set them both to d6 or one to d4 and one to d8.
 
-D20 | thingy     | thing      | of  | stuff
+D46 | thingy     | thing      | of  | stuff
 :-: | :-:        | :-:        | :-: | :-:
-1   | Mechanical | Stopwatch  | of  | Shrinking
-2   | Silver     | Dagger     | of  | Memory
-3   | Crystal    | Helmet     | of  | Dinosaurs
-4   | Vapor      | Canon      | of  | Nanobots
-5   | Aether     | Gauntlet   | of  | Time
-6   | Frozen     | Shield     | of  | Foresight
-7   | Miniature  | Sword      | of  | Mutation
-8   | Flaming    | Hammer     | of  | Tentacles
-9   | Feathered  | Potion     | of  | Insects
-10  | Living     | Ring       | of  | Spores
-11  | Particle   | Boots      | of  | Lasers
-12  | Cursed     | Axe        | of  | Speed
-13  | Shining    | Scissors   | of  | Light
-14  | Spiked     | Skillet    | of  | Song
-15  | Hairy      | Trombone   | of  | Shadow
-16  | Bone       | Chainsaw   | of  | the Void
-17  | Venomous   | Spatula    | of  | Shrinking
-18  | Delicious  | Chain      | of  | Meat
-19  | Floating   | Teapot     | of  | Shedding
-20  | Bedazzled  | Lantern    | of  | Regeneration
+11  | Mechanical | Stopwatch  | of  | Shrinking
+12  | Silver     | Dagger     | of  | Memory
+13  | Crystal    | Helmet     | of  | Dinosaurs
+14  | Vapor      | Canon      | of  | Nanobots
+15  | Aether     | Gauntlet   | of  | Time
+16  | Frozen     | Shield     | of  | Foresight
+21  | Miniature  | Sword      | of  | Mutation
+22  | Flaming    | Hammer     | of  | Tentacles
+23  | Feathered  | Potion     | of  | Insects
+24  | Living     | Ring       | of  | Spores
+25  | Particle   | Boots      | of  | Lasers
+26  | Cursed     | Axe        | of  | Speed
+31  | Shining    | Scissors   | of  | Light
+32  | Spiked     | Skillet    | of  | Song
+33  | Hairy      | Trombone   | of  | Shadow
+34  | Bone       | Chainsaw   | of  | the Void
+35  | Venomous   | Spatula    | of  | Shrinking
+36  | Delicious  | Chain      | of  | Meat
+41  | Floating   | Teapot     | of  | Shedding
+42  | Bedazzled  | Lantern    | of  | Regeneration
+43  | Glowing    | Familar    | of  | Sound Manipulation
+44  | Rubber     | Pen        | of  | Healing
+45  | Overgrown  | Cape       | of  | Photosynthesis
+46  | Bloody     | Tattoos    | of  | Binding
+

@@ -56,3 +56,9 @@ A civilization living on the shell of a snail dragon traversing the cosmos
 ### The wild remains
 
 Badlands with settlements built around the ruins of ancient civilizations and the bones of fallen monsters
+
+## Collaborative Domain Creation
+
+If your group likes, you can build a domain to play in together. First get a word or phrase from each player at the table, including the GM. This could be anything, like "demons", "gold", "weird west", "clouds", or "evil". Try arranging the words in different ways until the group comes to a consensus on what their favorite arrangement is. That's the start of your domain. From here, go around the table and have everyone suggest locations, npcs, factions, environment details, and wildlife. Do this until you have a few examples for each category. To flesh out the setting further, connect these details in ways that the group thinks make sense. Putting certain NPCs with specific factions, putting points of interest and specific environment details in specific locations and the like.
+
+At this point, you have a fairly detailed setting. You can stop here, or you can have players suggest adventure prompts based on what you have. Maybe two factions are fighting over resources or a location, maybe there's something mysterious going on in a given location, maybe a specific NPC has been acting weird lately, perhaps there are rumours related to unusual wildlife in an area.

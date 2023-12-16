@@ -53,7 +53,7 @@ A village in an acidic swamp with carnivorous trees. People mostly live in huts 
 
 A civilization living on the shell of a snail dragon traversing the cosmos
 
-### [The wild remains](https://pennylescroche.github.io/Distorted-Domains/setting/the-wild-remains)
+### [The wild remains](https://pennylescroche.github.io/Distorted-Domains/setting/wild-remains)
 
 Badlands with settlements built around the ruins of ancient civilizations and the bones of fallen monsters
 

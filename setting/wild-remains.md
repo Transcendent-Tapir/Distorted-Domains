@@ -47,3 +47,15 @@ Some People you might find:
     - Beast Keepers
     - Beserkers
     - Bomber
+
+Some Remains:
+- A large glass dome
+- The hide of a large scaled creature
+- A pyramid
+- A series of interconnected orbs
+- A giant pillar with intricate markings made from an unknown material
+- A small device with a button that displays lights of various colors
+- A large razor sharp talon
+- Serrated teeth
+- A machine that spins when energy sources are nearby
+- A rod that generates bubbles

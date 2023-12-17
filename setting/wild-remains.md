@@ -1,3 +1,6 @@
+---
+title: The Wild Remains
+---
 The wild remains is an irradiated wasteland full of dangers wildlife. Generally speaking, people must take shelter or cover up to shield themselves. People live in small settlements, some go out to look for supplies, others for the lost technologies of past civilizations. You'll often find people in shelters made from the ruins of a past civilization, or the remains of giant creatures.
 
 Some Terrain challenges:

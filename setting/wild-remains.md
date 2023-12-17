@@ -1,4 +1,4 @@
-The wild remains is an irradiated wasteland full of dangers wildlife. Generally speaking, people must take shelter or cover up to shield themselves. People live in small settlements, some go out to look for supplies, others for the lost technologies of past civilizations. 
+The wild remains is an irradiated wasteland full of dangers wildlife. Generally speaking, people must take shelter or cover up to shield themselves. People live in small settlements, some go out to look for supplies, others for the lost technologies of past civilizations. You'll often find people in shelters made from the ruins of a past civilization, or the remains of giant creatures.
 
 Some Terrain challenges:
 - Tar Pits
@@ -19,9 +19,16 @@ Some Animals:
 - 6 legged camel-bears
 - Dire sand fox
 - Irradiated Lizard
-- Colossal tortoise
 - Corpse beetles
 - Flying Tarantulas
+
+Monstrous Creatures:
+- Colossal Cryastalline tortoise
+- Hydra Wurm
+- Sauropod-Moose
+- Dragon-Hawk
+- Singing Tyrannosaur
+- Giant Hippo Sloth
 
 Some People you might find:
 - Wanderers: Nomadic people of the remains, living off what they can find

@@ -1,3 +1,6 @@
+---
+title: Gastropolis
+---
 Gastrolopolis is a dieselpunk city on the back of a cosmic snail-dragon, which consumes everything in front of it. In the city, you'll find skyscrapers, jazz clubs, speakeasies, flying machines, and all manner of denizens. 
 
 Potential problems:

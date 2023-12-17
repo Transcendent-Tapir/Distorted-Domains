@@ -39,3 +39,14 @@ Some problems:
 - Someone has gone missing
 - Someone is hiding something unusual
 - Something new has shown up unexpectedly
+
+Spacetime Anomalies:
+
+- A room where you're larger at one and and smaller at the other
+- People aging at different rates
+- Rooms connecting in illogical ways
+- Rooms that are much larger or smaller than should be physically possible
+- Rooms with curved floors and gravity that matches
+- Rooms that are a slightly different layout each time you enter
+- More or less time passing than would seem logical
+- Room where you can be walking on the floor or ceiling depending on where you entered 

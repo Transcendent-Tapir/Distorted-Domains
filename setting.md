@@ -51,7 +51,7 @@ A village in an acidic swamp with carnivorous trees. People mostly live in huts 
 
 ### [Gastropolis](https://pennylescroche.github.io/Distorted-Domains/setting/gastropolis)
 
-A civilization living on the shell of a snail dragon traversing the cosmos
+A dieselpunk city on the shell of a snail dragon traversing the cosmos
 
 ### [The wild remains](https://pennylescroche.github.io/Distorted-Domains/setting/wild-remains)
 

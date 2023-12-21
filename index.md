@@ -3,7 +3,7 @@ title: Distorted Domains
 ---
 # Introduction
 
-I'm making this game with the goal of being able to play across a variety of genres with a simple resolution system that utilizes opposed mixed dice pools. Major inspirations include Cortex Prime from Cam Banks and the team at Direwolf, GROK?! by Lester Burton, TROIKA!, Primal Quest, and the various works of Chuck Tingle. It has undergone many changes and will continue to change as the game is playtested and feedback is integrated.
+I'm making this game with the goal of being able to play across a variety of genres with a simple resolution system that utilizes opposed mixed dice pools. Major inspirations include Cortex Prime from Cam Banks and the team at Direwolf, GROK?! by Lester Burton, TROIKA!, Primal Quest, Doctor Who, Numenara, and the various works of Chuck Tingle. It has undergone many changes and will continue to change as the game is playtested and feedback is integrated.
 
 This game is meant to be weird and silly. The characters are meant to feel powerful, but also goofy. Who you are, what your experiences are, what you're looking for, and why you're looking for it will all play a factor in how characters accomplish their goals. While death is a possibility in Distorted Domains, it will focus more on long term consequences when things get bad. It features an anti-canon setting that allows you to mash up all of your favorite things without worrying what would make sense.
 

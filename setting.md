@@ -6,7 +6,7 @@ Domains could be something like the underwater city run by the Orca mafia, a flo
 
 There will be example domains as well as spark tables to create your own domains and adventures.
 
-Travel between domains could take many forms. Technologically advanced gates, magical portals, sailing ships going through the void, an interdimensional phone booth, a dangerous trek through the mist, mysterious doors leading to an infinite hallway, any or all of these could be true. You can also choose not to address it at all and the players can simply show up where they are needed.
+Travel between domains could take many forms. Technologically advanced gates, magical portals, sailing ships going through the void, an interdimensional phone booth, a dangerous trek through the mist, a long walk along a rainbow, mysterious doors leading to an infinite hallway, any or all of these could be true. You can also choose not to address it at all and the players can simply show up where they are needed.
 
 
 

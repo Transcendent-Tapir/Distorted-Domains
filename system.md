@@ -2,7 +2,7 @@
 
 ### Overview
 
-The system of Distorted Domains is tentatively called Distortion Dice. It's a simple system. Characters have 3 stats, and an opposing harm track for each stat. Characters also have a number of aspects and assets. aspects can be things like background details and personality traits, and they can be positive or negative. Assets are physical things that characters carry with them, and can only be used positively. While characters can use all relevant aspects, assets are limited by how many a character can logically use at one time. You wouldn't expect your character to be able to use a lasso and a chainsaw at the same time, for example.
+The system of Distorted Domains is called Distortion Dice. It's a simple system. Characters have 3 stats, and an opposing harm track for each stat. Characters also have a number of aspects and assets. aspects can be things like background details and personality traits, and they can be positive or negative. Assets are physical things that characters carry with them, and can only be used positively. While characters can use all relevant aspects, assets are limited by how many a character can logically use at one time. You wouldn't expect your character to be able to use a lasso and a chainsaw at the same time, for example (unless you combine them, of course).
 
 ### Taking Action
 
@@ -16,7 +16,7 @@ If you beat the opposition you succeed at what you were trying to do. If you bea
 
 ### Taking Harm
 
-When an action results in a mixed success or a failure, raise a harm die to the next die level. The harm die raised will be the one from the harm track that matches the stat being rolled. If a harm die would be raised above a d12, then your character is incapaciated and can no longer take action until the next scene. In addition, they take on or raise a negative aspect. If a negative aspect is raised above a d12, your character is retired.
+When an action results in a mixed success or a failure, raise a harm die to the next die level. The harm die raised will be the one from the harm track that matches the stat being rolled. If a harm die would be raised above a d12, then your character is incapaciated and can no longer take action until the next scene. In addition, they take on or raise a negative aspect. If a negative aspect is raised above a d12, your character is retired. Harm represents the difficulty of using a certain stat. This can be because of injury, stress, insecurity, or basically anything from a previous failure that may hold you back.
 
 ### Pushing your luck
 

@@ -1,9 +1,9 @@
 # Characters
 
-Characters in Distorted Domains have 3 stats. Strong, Skillful, and Smart. These can represent what you are doing or how you are approaching a task.
+Characters in Distorted Domains have 3 stats. Strong, Skilled, and Smart. These can represent what you are doing or how you are approaching a task.
 
 - Strong is using brute strength or a very direct approach
-- Skillful is using manual dexterity or a specialized skillset
+- Skilled is using manual dexterity or a specialized skillset
 - Smart is using a thoughtful, careful, or knowledgeable approach
 
 Each stat will have a die rating, ranging from d4 to d12, but probably somewhere in the middle.
@@ -26,7 +26,7 @@ Each Column 1-10 represents a potential set of stats that you can have. Select o
 D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
  :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 Strong   | d4  | d4  | d10 | d8  | d8  | d6  | d4  | d6  | d4  | d6
-Skillful | d4  | d10 | d4  | d6  | d4  | d8  | d8  | d4  | d6  | d6
+Skilled  | d4  | d10 | d4  | d6  | d4  | d8  | d8  | d4  | d6  | d6
 Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 
 ### Aspects

@@ -23,15 +23,15 @@ A space station orbiting a black hole beyond its event horizon. The layout feels
 
 ### [Murky Mire](https://pennylescroche.github.io/Distorted-Domains/setting/murky-mire)
 
-A village in an acidic swamp with carnivorous trees. People mostly live in huts raised above the deadly water. The wildlife is large and dangerous. You will see giant insects, amphibians, and reptiles that the denizens have learned to avoid or live along side of.
+A village in an acidic swamp with carnivorous trees. People mostly live in huts raised above the deadly water. The wildlife is large and dangerous. Nearby is a cave constantly emitting black smoke. You will see giant insects, amphibians, and reptiles that the denizens have learned to avoid or live along side of.
 
 ### [Gastropolis](https://pennylescroche.github.io/Distorted-Domains/setting/gastropolis)
 
-A dieselpunk city on the shell of a snail dragon traversing the cosmos
+A dieselpunk city on the shell of a snail dragon traversing the cosmos. Get a drink at a speakeasy with an octopus bartender, steal from a warehouse staffed by foxes and wolves, get hunted down by a robot PI, make a deal with a catfish mobster.
 
 ### [The wild remains](https://pennylescroche.github.io/Distorted-Domains/setting/wild-remains)
 
-Badlands with settlements built around the ruins of ancient civilizations and the bones of fallen monsters
+Badlands with settlements built around the ruins of ancient civilizations and the bones of fallen monsters. Explore ancient ruins, fight giant monsters, deal with bandits, trade rare goods with other travelers.
 
 ## Creating your own Domain
 
@@ -71,6 +71,6 @@ D8  | Person | Needs help to | this thing
 
 ### Collaborative Domain Creation
 
-If your group likes, you can build a domain to play in together. First get a word or phrase from each player at the table, including the GM. This could be anything, like "demons", "gold", "weird west", "clouds", or "evil". Try arranging the words in different ways until the group comes to a consensus on what their favorite arrangement is. That's the start of your domain. From here, go around the table and have everyone suggest locations, npcs, factions, environment details, and wildlife. Do this until you have a few examples for each category. To flesh out the setting further, connect these details in ways that the group thinks make sense. Putting certain NPCs with specific factions, putting points of interest and specific environment details in specific locations and the like.
+If your group likes, you can build a domain to play in together. First get a word or phrase from each player at the table, including the GM. This could be anything, like "demons", "gold", "tower", "weird west", "clouds", or "evil". Try arranging the words in different ways until the group comes to a consensus on what their favorite arrangement is. That's the start of your domain. From here, go around the table and have everyone suggest locations, npcs, factions, environment details, and wildlife. Do this until you have a few examples for each category. To flesh out the setting further, connect these details in ways that the group thinks make sense. Putting certain NPCs with specific factions, putting points of interest and specific environment details in specific locations and the like.
 
 At this point, you have a fairly detailed setting. You can stop here, or you can have players suggest adventure prompts based on what you have. Maybe two factions are fighting over resources or a location, maybe there's something mysterious going on in a given location, maybe a specific NPC has been acting weird lately, perhaps there are rumours related to unusual wildlife in an area.

@@ -19,6 +19,8 @@ Aside from stats, characters also have aspects and assets. Aspects are backgroun
 
 ## Character Creation
 
+The tables below are used to help you create your character. With the stat table, you must choose or roll for a column 1-10, the other tables are there to serve as inspiration and you can come up with your own ideas if you so choose. All tables will have the dice you have to roll listed on them, a d10 means roll a 10 sided die, and a d12 means roll a 12 sided die. Some tables will say something like D44 or D46, this means to roll 2 4 sided dice, or a 4 sided die and a 6 sided die to determine the outcome. This is done in two ways, one is to have one die represent the 10s digit and the other to represent the 1s digit. The other is that one die will be used for the column and the other will be used for the row. Tables that work this way will be the tables that have numbers across both the top and left side.
+
 ### Stats
 
 Each Column 1-10 represents a potential set of stats that you can have. Select or roll a d10 for your stats from the table below. Note that you are rolling or selecting the set of stats below each number.

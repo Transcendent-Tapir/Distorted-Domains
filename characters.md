@@ -21,7 +21,7 @@ Aside from stats, characters also have aspects and assets. Aspects are backgroun
 
 ### Stats
 
-Each Column 1-10 represents a potential set of stats that you can have. Select or roll a d10 for your stats from the table below
+Each Column 1-10 represents a potential set of stats that you can have. Select or roll a d10 for your stats from the table below. Note that you are rolling or selecting the set of stats below each number.
 
 D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
  :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:

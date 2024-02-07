@@ -16,9 +16,11 @@ Inspiration is gained from
 
 You start each session with 1 inspiration. 
 
-Before a roll, you can use a point of inspiration to raise a die in your pool, or lower a die in the opposing pool. You can spend multiple points and do this multiple times if you want.
+Before a roll, you can use a point of inspiration to raise a die in your pool,use a die you cannot normally use in your pool, or lower a die in the opposing pool. You can spend multiple points and do this multiple times if you want.
 
 After a roll, you can change a mixed success into a full success. On a failure, you can change what kind of negative outcome you have. You can switch the harm track affected from the one you rolled with to a different one of your choosing. Instead of taking harm to a harm track you can spend an inspiration to take on or step up a negative trait. Both of these options stop you from being incapcitated on a failure
+
+Outside of a roll, an inspiration can be spent to make a d6 scene asset without using a roll, or to keep a scene asset for the entire session or adventure. The scene asset created should be something that the character could make with their current abilities, or something that makes sense to be found in that location.
 
 ### Advancement
 

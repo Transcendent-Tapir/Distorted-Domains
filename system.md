@@ -41,3 +41,7 @@ NPCs do not have a harm track. If the NPC has stats, their stats get lowered as 
 ### Helping an ally
 
 If you want to help an ally with their action, you can use a stat or aspect die to do so. The harm die used in the opposition pool is still the one of the primary character doing the action. If the action fails, both characters take harm. You cannot push your luck while assisting, but the primary character has that option.
+
+### Scene Assets
+
+Sometimes a scene will have things that the players can use as assets. Such as dropping a chandelier on someone, or electrifying the water. A standard for these assets is to set them to d6, but a particularly weak asset can be a d4, and a more impactful asset might be a d8 or even a d10. Players can also choose to create an asset using the abilities or assets of their characters. To do so, the player character will make a test, if successful they create an asset equal to the size of the die they use as their result. So if the highest die in their pool has a value of 5, and is a d6, then the asset will be a d6. On a heroic success, raise the asset to the next die size. Scene assets will disappear at the end of the scene unless a player spends inspiration to keep it around until the end of the session.

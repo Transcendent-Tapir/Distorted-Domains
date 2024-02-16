@@ -19,6 +19,8 @@ NPCs are simply obstacles that have their own goals. Generally speaking an NPC w
 
 However, if the guard believes in something you can give them an additional die such as d8 duty: do not let anyone in. This die represents the job that they were assigned and their conviction to do it properly. This guard is now more significant because of the additional die that can be used in the pool, and the added difficulty for the player characters that it creates. However, they are still not very good at anything that isn't their assigned job, so getting the guard to try something that isn't related to not letting people in would be a pretty simple task to accomplish as they can only roll their d6 guard die (in adddition to the normal harm and negative trait dice of the player character).
 
+More notable NPCs will have more dice, as well as bigger dice. You could have a d10 Mushroom Mob Boss, with a d6 reinforced pinstripe suit, a d8 tommy gun, and a d8 spore blast attack. When an obstacle is built this way, players can specifically target one aspect to lower. Generally it is advised that any armor type assets be reduced before affecting the main die (d10 mushroom mob boss in this case).
+
 Groups of NPCs can also be represented by dice, the same as a complex task. You can simply give them a 2d8 angry mob, or something similar. More dice can indicate larger mobs and higher dice can indicate a mob that is more of a threat to the players. Even if the mob has multiple dice assigned as a single obstacle, you still only keep the single highest die when you roll.
 
 ### Turn Order

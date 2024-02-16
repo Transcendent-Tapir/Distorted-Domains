@@ -4,7 +4,7 @@ title: Currency & Gear
 
 # Currency in the Distorted Domains
 
-Each domain in Distorted Domains is likely to use a different form of currency. So if players want to trade, they will need something else of value. This can be doing someone a favor, offering information, or trading another object that they have. For short periods of time, players can narrative item that represents the amount of gold or particular item of value. Both of these could be represented as assets if there is no specific goal in mind these can be temporary assets. Or they can simply be a narrative item, meant to be protected until it can be traded for what the players are really after.
+Each domain in Distorted Domains is likely to use a different form of currency. So if players want to trade, they will need something else of value. This can be doing someone a favor, offering information, or trading another object that they have. For short periods of time, players can narrative item that represents the amount of gold or particular item of value. Both of these could be represented as assets if there is no specific goal in mind or if they are being used as a bargaining chip. Or they can simply be a narrative item, meant to be protected until it can be traded for what the players are really after.
 
 ### Resources as an Asset
 

@@ -17,7 +17,7 @@ Travel between domains could take many forms. Technologically advanced gates, ma
 A glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. At the bottom is a thriving city full of aquatic mammals run by the orca mafia. Inside lies only mystery.
 
 
-### [Hawking Station](https://pennylescroche.github.io/Distorted-Domains/setting/hawking-station)
+### [Arko Station](https://pennylescroche.github.io/Distorted-Domains/setting/arko-station)
 
 A space station orbiting a black hole beyond its event horizon. The layout feels ever shifting and time can move faster or slower depending on what room you're in. The station is occupied by sentient dinosaurs who have no recollection of who built the station or how they got there.
 

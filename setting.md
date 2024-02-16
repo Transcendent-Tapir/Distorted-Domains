@@ -74,3 +74,16 @@ D8  | Person | Needs help to | this thing
 If your group likes, you can build a domain to play in together. First get a word or phrase from each player at the table, including the GM. This could be anything, like "demons", "gold", "tower", "weird west", "clouds", or "evil". Try arranging the words in different ways until the group comes to a consensus on what their favorite arrangement is. That's the start of your domain. From here, go around the table and have everyone suggest locations, npcs, factions, environment details, and wildlife. Do this until you have a few examples for each category. To flesh out the setting further, connect these details in ways that the group thinks make sense. Putting certain NPCs with specific factions, putting points of interest and specific environment details in specific locations and the like.
 
 At this point, you have a fairly detailed setting. You can stop here, or you can have players suggest adventure prompts based on what you have. Maybe two factions are fighting over resources or a location, maybe there's something mysterious going on in a given location, maybe a specific NPC has been acting weird lately, perhaps there are rumours related to unusual wildlife in an area.
+
+If during domain creation you ever get stuck and cannot come up with anything, you can use the table below for inspiration
+
+D68 | 1 |  2 |  3 |  4 |  5 |  6
+:-: | :-: | :-: | :-: | :-: | :-: | :-:
+1  | Demon	|	Gold	|	Stars	|	Steampunk	|	Aether	|	Revolution
+2  | Swords	|	Cloud	|	Mountain	|	Temple	|	Monks	|	River	
+3  | Stilts	|	Gears	|	Crystal	|	Giraffe	|	Mechanical	|	Gateway
+4  | Automaton	|	Monster	|	Spirit	|	Mushroom	|	Village	|	Boat
+5  | Shattered	|	Arcane	|	Island	|	Wolves	|	Swamp	|	Fortress
+6  | Ocean	|	Alien	|	High-tech	|	Abandoned	|	Reinforced	|	Walking
+7  | Darkness	|	Fire	|	Frozen	|	Spiral	|	Mafia	|	Corporation	
+8  | Farm	|	Rotting	|	Tower	|	Quantum	|	Cliff	|	Hut

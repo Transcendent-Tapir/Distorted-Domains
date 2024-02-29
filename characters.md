@@ -102,6 +102,8 @@ D46 | 1              | 2                  | 3                   | 4
 5   | Hand Injury    | Fear of Darkness   | Your need to prove yourself | Your peculiar toe/fingernails
 6   | Head Injury    | Fear of Creepy Crawlies | You crack in the most vital moments | The disembodied voice of someone from your past
 
+Every aspect is intended to be used as inspiration. You are encouraged to add more detail as you see fit. Maybe being from "the streets" means a favela in Rio De Janero, maybe it means a futuristic Dubai. A head injury could be chronic migraines, or a missing eye, or that you were decapitated and your had hasn't been quite right since it grew back. Looking for love could be a loved one that was taken from you, or it could be a deep longing for a connection that you haven't found yet.
+
 
 ### Assets
 

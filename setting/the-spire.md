@@ -68,6 +68,10 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Casino
 - Crafting Guild
 - Fisherman's Guild
+- Hotel
+- Shipping Docks
+- Factory
+- Hockey Rink
 
 #### Creatures
 
@@ -77,6 +81,8 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Crab
 - Starfish
 - Bristle Worm
+- Shark
+- Flounder
 
 #### Personality
 
@@ -86,6 +92,8 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Indifferent
 - Sad
 - Excited
+- Paranoid
+- Flirtatious
 
 #### Jobs
 
@@ -102,8 +110,10 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - Rare Jewel
 - Message
 - Key Eyewitness
-- Tome of lost knowledge
+- Important Document
 - Key
+- Magic ingredient
+- Hazardous Material
 
 #### Complications
 
@@ -111,6 +121,8 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 - It's in a dangerous location
 - It's always trying to escape
 - It turns into something dangerous
+- It needs to be done quickly
+- It must be kept secret
 
 #### Rumors
 

@@ -9,12 +9,15 @@ Some Terrain challenges:
 - Sand Storms
 - Quicksand
 - Cliffs
+- Unstable rock formations
 
 Some plants:
 - Bushes and brush full of spikes
 - Giant flowers with hallucinagenic pollen
 - Cacti with venomous needles
 - Grasping bunches of grass
+- Isolated giant pines
+- Razor tumbleweed
 
 Some Animals:
 - Giant Scorpions
@@ -24,6 +27,7 @@ Some Animals:
 - Irradiated Lizard
 - Corpse beetles
 - Flying Tarantulas
+- Spring Serpents
 
 Monstrous Creatures:
 - Colossal Cryastalline tortoise

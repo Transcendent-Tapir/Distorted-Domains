@@ -10,12 +10,34 @@ A village in an acidic swamp with carnivorous trees. People mostly live in huts 
 
 #### Villager
 
+**Species**
+
 - Goblin
 - Elf
 - Insectoid
 - Reptilian
 - Avian
 - Human
+
+**Job**
+
+- Cook
+- Farmer
+- Carpenter
+- Hunter
+- Brewer
+- Tailor
+- Mechanic
+- Navigator
+
+**Personality**
+
+- Bubbly
+- Grumpy
+- Reserved
+- Sarcastic
+- Boastful
+- Anxious
 
 ### The Swamp
 
@@ -38,6 +60,15 @@ A village in an acidic swamp with carnivorous trees. People mostly live in huts 
 - Spider Monkey
 - Mothipede
 - Magpie-squito
+
+#### Assets and Rewards
+
+- Frogskin Goggles of Diagnosis
+- Clay Paintbrush of Poison
+- Smoking Goblet of Shadows
+- Recycled Bicycle of Gravity
+- Brightly Colored Megaphone of Enchanting
+- Sonic Wrench of Locks
 
 ### The Smoldering Caves
 

@@ -66,3 +66,13 @@ Some Remains:
 - Serrated teeth
 - A machine that spins when energy sources are nearby
 - A rod that generates bubbles
+
+Assets you might find or receive as rewards
+- Whirring Datapad of Wayfinding
+- Crystal Powered Watch of Levitation
+- Tattered Cape of Insight
+- Scaled Injector of Superhuman Reflexes
+- Expired Pills of Tunneling
+- Over-Engineered Backpack of Grappling
+- Self Deploying Net of Tranquility
+- Leather Fingerless Gloves of Sharpness

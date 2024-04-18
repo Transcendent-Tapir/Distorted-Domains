@@ -54,3 +54,7 @@ New D4 Aspect | D4 -> D6 | D6 -> D8 | D8 -> D10 | D10 -> D12
 ##### Lowering Aspects
 
 When Lowering negative aspects, it always costs 5. However, a negative aspect cannot be lowered below d4, there will always be a trace of it around.
+
+### Personal Goals
+
+Travelers have a goal, they are looking for something. If a traveler finds that thing, they gain 20 advancement. However, if a player wants to continue on with that same character, they must be given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.

@@ -12,6 +12,8 @@ Inspiration is gained from
 - Rolls that use a negative aspect
 - As a possible bonus from a critical success
 
+Gaining inspiration always takes place after a roll, so you cannot use the inspiration you gain from using a negative aspect in that same roll.
+
 #### Using Inspiration
 
 You start each session with 1 inspiration. 
@@ -24,12 +26,24 @@ Outside of a roll, an inspiration can be spent to make a d6 scene asset without 
 
 ### Advancement
 
+#### Gaining Advancement
+
 Advancement points are used to enhance your character, and can be gained in a few ways.
 
 points are gained by:
 - Having leftover inspiration at the end of a session
 - Working toward your individual goals
-- Accomplishing something major in an adventure
+- Finishing an adventure
+
+Use the table below to grant advancement based on the length of the adventure
+
+1 Session | 2-3 Sessions | 4-6 Sessions | 7+ Sessions
+:-------: | :----------: | :----------: | :---------:
+5         | 10           | 15           | 20
+
+
+Travelers have a goal, they are looking for something. If a traveler finds that thing, they gain 20 advancement. However, if a player wants to continue on with that same character, they must be given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.
+
 
 Things you can do with your advancement points
 - Raise a stat die
@@ -55,6 +69,3 @@ New D4 Aspect | D4 -> D6 | D6 -> D8 | D8 -> D10 | D10 -> D12
 
 When Lowering negative aspects, it always costs 5. However, a negative aspect cannot be lowered below d4, there will always be a trace of it around.
 
-### Personal Goals
-
-Travelers have a goal, they are looking for something. If a traveler finds that thing, they gain 20 advancement. However, if a player wants to continue on with that same character, they must be given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.

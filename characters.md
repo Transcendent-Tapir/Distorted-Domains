@@ -1,6 +1,6 @@
 # Characters
 
-Characters in Distorted Domains have 3 stats. Strong, Skilled, and Smart. These can represent what you are doing or how you are approaching a task.
+Characters in Distorted Domains are called Travelers, as they are people who travel through the many domains in search of something. They have 3 stats. Strong, Skilled, and Smart. These can represent what you are doing or how you are approaching a task.
 
 - Strong is using brute strength or a very direct approach
 - Skilled is using manual dexterity or a specialized skillset
@@ -11,15 +11,15 @@ d4 represents a below average ability. d6 is average, d8 is good, d10 is excelle
 Each stat also has a harm track associated with it that starts at a d4.
 When you roll and get a failure or success with consequences, one of your harm tracks will be stepped up.
 Which harm track gets advanced depends on what is happening within the fiction.
-Harm tracks represent the fatigue, stress, and injuries that your character accumulates as they go on their adventure.
+Harm tracks represent the fatigue, stress, and injuries that your traveler accumulates as they go on their adventure.
 The die in your harm track is also used in the oppositions dice pool. If you use strong, the opposition pool gets your Strong harm die.
 
-Aside from stats, characters also have aspects and assets. Aspects are background details, personality traits, beliefs, and goals. Your character will likely have positive and negative aspects. Assets are physical things that your character carries with them. All aspects and assets have a die rating, just like stats. Negative aspects will add a die to the opposition pool, while positive aspects and assets will add dice to the players dice pool when they make a roll.
+Aside from stats, travelers also have aspects and assets. Aspects are background details, personality traits, beliefs, and goals. Your traveler will likely have positive and negative aspects. Assets are physical things that your traveler carries with them. All aspects and assets have a die rating, just like stats. Negative aspects will add a die to the opposition pool, while positive aspects and assets will add dice to the players dice pool when they make a roll.
 
 
 ## Character Creation
 
-The tables below are used to help you create your character. With the stat table, you must choose or roll for a column 1-10, the other tables are there to serve as inspiration and you can come up with your own ideas if you so choose. All tables will have the dice you have to roll listed on them, a d10 means roll a 10 sided die, and a d12 means roll a 12 sided die. Some tables will say something like D44 or D46, this means to roll 2 4 sided dice, or a 4 sided die and a 6 sided die to determine the outcome. This is done in two ways, one is to have one die represent the 10s digit and the other to represent the 1s digit. The other is that one die will be used for the column and the other will be used for the row. Tables that work this way will be the tables that have numbers across both the top and left side.
+The tables below are used to help you create your traveler. With the stat table, you must choose or roll for a column 1-10, the other tables are there to serve as inspiration and you can come up with your own ideas if you so choose. All tables will have the dice you have to roll listed on them, a d10 means roll a 10 sided die, and a d12 means roll a 12 sided die. Some tables will say something like D44 or D46, this means to roll 2 4 sided dice, or a 4 sided die and a 6 sided die to determine the outcome. This is done in two ways, one is to have one die represent the 10s digit and the other to represent the 1s digit. The other is that one die will be used for the column and the other will be used for the row. Tables that work this way will be the tables that have numbers across both the top and left side.
 
 ### Stats
 

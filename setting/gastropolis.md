@@ -49,3 +49,5 @@ Some Places:
 - The rich family estate
 - The factory
 - The warehouse
+
+*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

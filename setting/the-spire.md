@@ -145,3 +145,5 @@ Bioluminescent Net of hallucination
 Half Eaten Anchor of Tides
 Ethereal Hook of False Memories
 Slimy Barrel of Abundance
+
+*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

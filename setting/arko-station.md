@@ -50,3 +50,5 @@ Spacetime Anomalies:
 - Rooms that are a slightly different layout each time you enter
 - More or less time passing than would seem logical
 - Room where you can be walking on the floor or ceiling depending on where you entered 
+
+*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

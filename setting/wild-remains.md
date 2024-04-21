@@ -76,3 +76,5 @@ Assets you might find or receive as rewards
 - Over-Engineered Backpack of Grappling
 - Self Deploying Net of Tranquility
 - Leather Fingerless Gloves of Sharpness
+
+*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

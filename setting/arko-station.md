@@ -39,6 +39,7 @@ Some problems:
 - Someone has gone missing
 - Someone is hiding something unusual
 - Something new has shown up unexpectedly
+- There are more or less of something than there should be
 
 Spacetime Anomalies:
 

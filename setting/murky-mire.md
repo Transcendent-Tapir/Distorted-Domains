@@ -69,6 +69,8 @@ A village in an acidic swamp with carnivorous trees. People mostly live in huts 
 - Recycled Bicycle of Gravity
 - Brightly Colored Megaphone of Enchanting
 - Sonic Wrench of Locks
+- Frog-Leather Jacket of Immunity
+- Ancient Stick of Magical Inscription
 
 ### The Smoldering Caves
 

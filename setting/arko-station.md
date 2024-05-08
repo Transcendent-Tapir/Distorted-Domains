@@ -16,6 +16,7 @@ Some Dinosaurs(and other ancient animals):
 - Plesiosaur
 - Spinosaurus
 - Ichthyosaur
+- Gigantophis
 
 Some Rooms or aspects of the station:
 

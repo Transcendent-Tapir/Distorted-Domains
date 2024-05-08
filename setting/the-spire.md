@@ -126,24 +126,24 @@ A glowing crystal tower that rises to the skies from the ocean floor. The water 
 
 #### Rumors
 
-Theres a mechanical horror that rips everything to shreds
-Theres a swarm of jellyfish that can turn you to stone
-Theres a fungus that can hypnotise you and consume you alive
-Theres a powerful wizard that will turn you into a magical elixer
-Theres a lost treasure that will curse you for the rest of your eternal life
-Theres a Mollusk that will take your Eyes
-Theres an ancient guardian that stalks you and poisons you in your sleep
-Theres a shipwreck that moves in mysterious and unpredictable ways
+- Theres a mechanical horror that rips everything to shreds
+- Theres a swarm of jellyfish that can turn you to stone
+- Theres a fungus that can hypnotise you and consume you alive
+- Theres a powerful wizard that will turn you into a magical elixer
+- Theres a lost treasure that will curse you for the rest of your eternal life
+- Theres a Mollusk that will take your Eyes
+- Theres an ancient guardian that stalks you and poisons you in your sleep
+- Theres a shipwreck that moves in mysterious and unpredictable ways
 
 #### Artifacts
 
-Ancient Harpoon of Darkness
-Cursed Bell of Paralyzing
-Ornate Tome of Lost knowledge
-Barnacle covered Cauldron of Isolation
-Bioluminescent Net of hallucination
-Half Eaten Anchor of Tides
-Ethereal Hook of False Memories
-Slimy Barrel of Abundance
+- Ancient Harpoon of Darkness
+- Cursed Bell of Paralyzing
+- Ornate Tome of Lost knowledge
+- Barnacle covered Cauldron of Isolation
+- Bioluminescent Net of hallucination
+- Half Eaten Anchor of Tides
+- Ethereal Hook of False Memories
+- Slimy Barrel of Abundance
 
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

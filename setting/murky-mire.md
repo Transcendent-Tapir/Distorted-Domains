@@ -76,4 +76,21 @@ A village in an acidic swamp with carnivorous trees. People mostly live in huts 
 
 At the edge of the swamp, is the mouth of a cave that goes into the side of an unfathomably high mountain. The side of the mountain is sheer and impossible to climb. The water in the cave is less acidic, and it's home to a number of bioluminescent fungi. Deep in the caves are vents that release a mineral rich smoke, heating the cave and providing nutrients to the life within it, but making it hard to breathe for those that aren't adapted
 
+Some obstacles within the smoldering caves
+- Narrow Passageways
+- Quickly moving water
+- Stalagtites and Stalagmites
+- Unfathomable Darkness
+- Confusing pathways
+- Cave ins
+- Deep caverns
+- High sheer walls
+
+Some organisms within the smoldering caves
+- Venomous Cave Anemonies
+- Rapidly spreading fungus
+- Skittering Moss
+- Aquatic Scorpions
+- Skunkbats
+- Catapult Shrimp
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

@@ -5,12 +5,10 @@ Gastrolopolis is a dieselpunk city on the back of a cosmic snail-dragon, which c
 
 Potential problems:
 
-- The snail is going to travel through something dangerous for the city
-    - An asteroid field
-    - A star
-    - A black hole
-    - A civilization with a robust defense system
-    - 
+- The snail is going to travel through an asteroid field
+- The snail is going to travel through a star
+- The snail is going to travel through a black hole
+- The snail is going to travel through a civilization with a robust defense system
 - Resources are running low because the rich are hoarding them
 - something important has gone missing
 - a territory dispute between rival factions

@@ -55,4 +55,17 @@ D8 |Spacetime Anomalies:
 7 | More or less time passing than would seem logical
 8 | Room where you can be walking on the floor or ceiling depending on where you entered 
 
+#### Rewards and Assets
+
+D8 | Thingy | Thing | of | Stuff
+:-: | :-:   | :-:   | :-: | :-:
+1 | Nearly working | Dispenser | of | Nutrients
+2 | Feathered | Hat | of | Whirling
+3 | Collapsible | Ladder | of | Weightlessness
+4 | Cybernetic | Tripod | of | Attraction
+5 | Flying | Nanobots | of | Construction
+6 | Hidden | Foam | of | Melting
+7 | Floral | Dress | of | Charisma
+8 | Delicious | Shell | of | Instability
+
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

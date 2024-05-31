@@ -50,4 +50,17 @@ D8 | Locations
 7 | The factory
 8 | The warehouse
 
+#### Rewards and Assets
+
+D8 | Thingy | Thing | of | Stuff
+:-: | :-:   | :-:   | :-: | :-:
+1 | Musical | Tommygun | of | Smog
+2 | Reinforced | Pinstripe Suit | of | Basket Weaving
+3 | Moistened | Pasty | of | Astral Projection
+4 | Brass | Plates | of | Sustenance
+5 | Diamond-Encrusted | Bouquet | of | Deception
+6 | Wing-tip | Shoes | of | Dancing
+7 | Gold Plated | Cigarette | of | Transformation
+8 | Glowing | Martini Glass | of | Destruction 
+
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

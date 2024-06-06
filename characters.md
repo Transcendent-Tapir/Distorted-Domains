@@ -136,3 +136,20 @@ D46 | thingy     | thing      | of  | stuff
 45  | Overgrown  | Cape       | of  | Photosynthesis
 46  | Bloody     | Tattoos    | of  | Binding
 
+#### Finishing Up
+
+It's not at all necessary, but it can be helpful to answer some of the following questions about your character.
+
+- Which fellow traveler do you trust the most?
+- Which fellow traveler makes you nervous?
+- What is your favorite food?
+- What incident led to you becoming a traveler?
+- Is there anyone you are trying to impress?
+- What is most peoples first impression of you?
+- What are some of your hobbies?
+- Who was your childhood best friend?
+- Do you have any family, either found or biological?
+- How do you move around?
+- What artistic medium do you consume the most? (comics, music, tv shows, dream powder, etc)
+
+These questions, when combined with the aspects of your character can help you create a backstory and connections to other characters. The DM can use this information to give you more opportunities to explore who your character is and what they want. These also help you figure out your characters personality, outward appearance, and just overall vibe.

@@ -52,8 +52,8 @@
 
 #### Notable Aspects
 
-- Cryptid From The Deep: +d6
-- Brutish Scientist: +d6
+- Cryptid From The Deep: +d8
+- Brutish Scientist: +d4
 - Looking for Love: +d6
 - Fear of Heights: -d6
 - Disembodied voice of their parent: -d6
@@ -74,8 +74,8 @@
 - Smart: d10
 
 #### Notable Aspects
-- Tiger Centaur from an Enchanted Forest: +d8
-- Determined Mage: +d4
+- Tiger Centaur from an Enchanted Forest: +d6
+- Determined Mage: +d6
 - Looking for Experience: +d6
 - Fear of Darkness: -d6
 - Talks too much: -d6

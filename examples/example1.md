@@ -22,7 +22,7 @@ Mime: That's nice, hon, but that's not what I meant. You want something from me,
 Ko: Play ball *how* exactly?
 Mime: You want something I have, you need to give me something I want
 Wanda: While we would very much like to help, this issue is rather important. Could we convince you to lend us the information on credit?
-[Wanda Rolls Skilled d8 + Cryptid from the deep d6 for using cryptid wiles to make a deal, resulting in a 5 on both. The DM rolls a d4 for Wanda's Skilled harm, and a d6 for the mime. This results in success with a complication. Wanda increases her Skilled harm to a d6, and gains an inspiration for taking on harm]
+[Wanda Rolls Skilled d8 + Cryptid from the deep d6 for using cryptid wiles to make a deal, resulting in a 5 on both. The DM rolls a d4 for Wanda's Skilled harm, and a d6 for the mime. This results in success with a complication. Wanda increases her Skilled harm to a d6, and gains an inspiration for taking on harm. In this case the harm represents the anxiety Wanda has about holding up their end of the deal]
 Mime: Interesting proposal, so I give you the info now, and you owe me a favor I can call in whenever?
 Wanda: Uhh... yes I suppose that is what I'm proposing
 Ko: Are you sure about this?

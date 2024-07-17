@@ -13,7 +13,7 @@ Off-screen voice: You Lookin for Someone?
 
 2
 Wanda: Did you see a mushroom woman who passed through here?
-Mime: Maybe I did, Maybe I didn't. Maybe you should help me refresh my memory
+Insectoid Mime: Maybe I did, Maybe I didn't. Maybe you should help me refresh my memory
 Ko: You can talk?
 Mime: Of course I can, I'm off the clock. 
 Wanda: She was about this tall and...

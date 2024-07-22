@@ -55,6 +55,10 @@ D8 |Spacetime Anomalies:
 7 | More or less time passing than would seem logical
 8 | Room where you can be walking on the floor or ceiling depending on where you entered 
 
+### The Forgotten Sectors
+
+sometimes sections of the station become lost, losing all connections to the rest of the station. Forgotten sectors can't be found, instead they find you, with unusual doors and pathways that disappear if you look away too long. Such as a spiral staircase coming out of a wall, or a ladder inside a walk in freezer. The only way to escape the a forgotten sector is to hope that you live long enough for the station to release you. Forgotten Sectors often have a higher than normal occurence of spacetime anomalies, radiation, and other unidentified energies. Due to this, they are full of unusual and dangerous lifeforms.
+
 #### Rewards and Assets
 
 D8 | Thingy | Thing | of | Stuff

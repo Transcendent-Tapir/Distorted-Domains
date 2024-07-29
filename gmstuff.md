@@ -47,4 +47,4 @@ It's important to remember that threats do not have to be a single die, many obs
 
 ### Giving Rewards
 
-Rewards in Distorted Domains generally come in one of two forms. One is Advancement, which is how characters improve over time. The other is assets, which give characters new interesting items to use. Because of this, you should be sure to deal harm to assets and not just harm tracks, this ensures that assets will continuously be cycled through.
+Rewards in Distorted Domains generally come in one of two forms. One is Advancement, which is how characters improve over time. The other is assets, which give characters new interesting items to use. Because of this, you should be sure to deal harm to assets and not just harm tracks, this ensures that assets will continuously be cycled through. Assets gained as rewards follow the same rules as assets at character creation. This being that the asset has a name and a die rating, and it is up to the Traveler that uses the asset for the first time to define how it works.

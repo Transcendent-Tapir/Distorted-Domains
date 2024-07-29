@@ -136,6 +136,8 @@ D46 | thingy     | thing      | of  | stuff
 45  | Overgrown  | Cape       | of  | Photosynthesis
 46  | Bloody     | Tattoos    | of  | Binding
 
+Asset names are meant to be evocative and open to interpretation, a Delicious Gauntlet of Insects could be used to lure in tasty edible insects, or it could be a gauntlet that controls insects and is also coincidentally very tasty. Or it could be delicious in the broader sense, like an insect themed glove that is delightful. For each asset, the traveler who receives it should define what it is and how it works the first time they use it. From then on, the asset must follow that definition.
+
 #### Finishing Up
 
 It's not at all necessary, but it can be helpful to answer some of the following questions about your character.

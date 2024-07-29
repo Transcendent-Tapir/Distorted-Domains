@@ -20,9 +20,9 @@ You start each session with 1 inspiration.
 
 Before a roll, you can use a point of inspiration to raise a die in your pool,use a die you cannot normally use in your pool, or lower a die in the opposing pool. You can spend multiple points and do this multiple times if you want.
 
-After a roll, you can change what kind of negative outcome you have. You can switch the harm track affected from the one you rolled with to a different one of your choosing. Instead of taking harm to a harm track you can spend an inspiration to take on or step up a negative trait. Both of these options stop you from being incapcitated on a failure
+After a roll, you can change what kind of negative outcome you have. You can switch the harm track affected from the one you rolled with to a different one of your choosing. Instead of taking harm to a harm track you can spend an inspiration to take on or step up a negative trait. You can also spend inspiration to redirect harm to an asset, or to redirect harm from an asset to your harm track or to a different asset. If you redirect harm to prevent a harm track from going over a d12, you avoid incapacitation.
 
-Outside of a roll, an inspiration can be spent to make a d6 scene asset without using a roll, or to keep a scene asset for the entire session or adventure. The scene asset created should be something that the character could make with their current abilities, or something that makes sense to be found in that location.
+Outside of a roll, an inspiration can be spent to make a d6 scene asset without using a roll, or to keep a scene asset for the entire session. The scene asset created should be something that the character could make with their current abilities, or something that makes sense to be found in that location.
 
 ### Advancement
 
@@ -65,7 +65,16 @@ New D4 Aspect | D4 -> D6 | D6 -> D8 | D8 -> D10 | D10 -> D12
 :-----------: | :------: | :------: | :-------: | :--------:
 5             | 10       | 15       | 20        | 25
 
-##### Lowering Aspects
+#### Lowering Aspects
 
 When Lowering negative aspects, it always costs 5. However, a negative aspect cannot be lowered below d4, there will always be a trace of it around.
 
+#### Saving Assets
+
+Assets in Distorted Domains degrade over time, if a player or Traveler wants to save or restore an asset it costs 5 advancement. This returns the asset to the die rating that it had at the beginning of the session, or the die rating of when it was acquired if it was acquired this session.
+
+A temporary asset can also be made permanent with 5 advancement.
+
+#### Upgrading Assets
+
+Upgrading Assets is not done with advancement, this can only be done within the fiction of the game. If a player would like their asset die to be upgraded beyond the standard die rating, they must seek out someone or something that can make that asset better. Someone like an enchanter, an engineer, a blacksmith. They can also use a rare item such as a gemstone of beguiling, or the crystalline vapors of a deep sea thermal vent.

@@ -30,3 +30,21 @@ Groups of NPCs can also be represented by dice, the same as a complex task. You 
 ### Turn Order
 
 If there is a lot going on in a scene, you may want to use a turn order. Generally speaking, the party initiating the conflict goes first, if this is unclear have the players roll to react to the situation. players who succeed can act before the opposition, players who fail will act after. if one of the opposing parties is a group, give them at least two actions. once everyone has gone you can either simply go around again, or have the players roll once more to establish turn order.
+
+### On Prep and Difficulty
+
+Distorted Domains is designed with the idea of an emergent narrative. As such it is recommended that you prep situations, not plots. What this means more specifically is that when prepping for a Distorted Domains session, simply create a starting scenario with conflict already going on. Players will naturally be drawn to the conflict and will attempt to address it, but how they choose to do so is entirely up to them. You can also prep some potential obstacles which you can put in when they feel appropriate, as well as some complications that might occur if the players stall. As the GM it is your job to create the world and have it react to the players actions, including player inaction.
+
+When it comes to challenging your players, you don't need to be very afraid of making things too difficult. Distorted Domains has many ways for the players to manipulate rolls and control the harm that they take. The game also rewards risky play with Inspiration, which is the resource that gives players more control. Between gaining and spending inspiration, and the ability to approach problems in a variety of ways, players should generally be able to overcome or work around any challenge you present to them. Generally speaking, the die ratings for difficulty are as follows:
+
+- d4: Trivial. Very low risk of complications or failure
+- d6: Mild. the d6 represents an average threat or obstacle. An unnamed NPC, a simple trap or lock, and a group of small animals are all examples of a d6
+- d8: Moderate. A threat that most people would try to avoid, but Travelers are more likely to confront. Traps that are difficult to avoid, large NPCs, and dangerous animals could all be a d8
+- d10: High. Used for notable threats like named NPCs and extremely dangerous traps
+- d12: Extreme. Commonly used for boss-like enemies, nearly impassable terrain, or anything else that is better to avoid than confront
+
+It's important to remember that threats do not have to be a single die, many obstacles can be multi-faceted, or simply take some time to overcome. It's also important to remember that if an obstacle doesn't have a relevant die rating for the approach a traveler is using, you can simply judge the difficulty of their attempted action and give that a die rating.
+
+### Giving Rewards
+
+Rewards in Distorted Domains generally come in one of two forms. One is Advancement, which is how characters improve over time. The other is assets, which give characters new interesting items to use. Because of this, you should be sure to deal harm to assets and not just harm tracks, this ensures that assets will continuously be cycled through.

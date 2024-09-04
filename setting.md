@@ -45,7 +45,7 @@ Badlands with settlements built around the ruins of ancient civilizations and th
 
 ## Creating your own Domain
 
-### Spark Tables
+### Simple Domain Creation
 
 You can use the tables below to create a location and a starting scenario
 
@@ -81,11 +81,22 @@ D8  | Person | Needs help to | this thing
 
 ### Collaborative Domain Creation
 
-If your group likes, you can build a domain to play in together. First get a word or phrase from each player at the table, including the GM. This could be anything, like "demons", "gold", "tower", "weird west", "clouds", or "evil". Try arranging the words in different ways until the group comes to a consensus on what their favorite arrangement is. That's the start of your domain. From here, go around the table and have everyone suggest locations, npcs, factions, environment details, and wildlife. Do this until you have a few examples for each category. To flesh out the setting further, connect these details in ways that the group thinks make sense. Putting certain NPCs with specific factions, putting points of interest and specific environment details in specific locations and the like.
+If your group likes, you can build a domain to play in together.
 
-At this point, you have a fairly detailed setting. You can stop here, or you can have players suggest adventure prompts based on what you have. Maybe two factions are fighting over resources or a location, maybe there's something mysterious going on in a given location, maybe a specific NPC has been acting weird lately, perhaps there are rumours related to unusual wildlife in an area.
+#### Step 1 - Size
 
-If during domain creation you ever get stuck and cannot come up with anything, you can use the table below for inspiration
+The first step in domain creation is to determine the size and scope of the domain. Domains can be endless, as small as a single room, or anywhere in between. They roughly break down into the following sizes:
+- Seemingly Infinite. With no known ends
+- Extremely Large. The size of a planet
+- Large. The size of a continent
+- Medium. The size of a large city, or distinct geographical region like a forest or mountain range
+- Small. A small community with a collection of homes and shops
+- Tiny. A single structure, such as a large treehouse, a space ship, or a shopping mall
+
+#### Step 2 - Themes
+
+Get a word or phrase from each player at the table, including the GM. This could be anything, like "demons", "gold", "tower", "weird west", "clouds", or "evil". Try arranging the words in different ways until the group comes to a consensus on what their favorite arrangement is. That's the start of your domain. 
+
 
 D68 | 1 |  2 |  3 |  4 |  5 |  6
 :-: | :-: | :-: | :-: | :-: | :-: | :-:
@@ -97,3 +108,13 @@ D68 | 1 |  2 |  3 |  4 |  5 |  6
 6  | Ocean	|	Alien	|	High-tech	|	Abandoned	|	Reinforced	|	Walking
 7  | Darkness	|	Fire	|	Frozen	|	Spiral	|	Mafia	|	Corporation	
 8  | Farm	|	Rotting	|	Tower	|	Quantum	|	Cliff	|	Hut
+
+#### Step 3 - Details
+
+Go around the table and have everyone suggest locations, npcs, factions, environment details, and wildlife. Do this until you have a few examples for each category. To flesh out the setting further, connect these details in ways that the group thinks make sense. Putting certain NPCs with specific factions, putting points of interest and specific environment details in specific locations and the like.
+
+#### Step 4 - Rumors and Conflicts
+
+Each Player, including the DM, should introduce some sort of mystery, rumor, or conflict within the setting. Maybe two factions are fighting over resources or a location, maybe there's something mysterious going on in a given location, maybe a specific NPC has been acting weird lately, perhaps there are rumours related to unusual wildlife in an area.
+
+If during domain creation you ever get stuck and cannot come up with anything, you can use the table below for inspiration

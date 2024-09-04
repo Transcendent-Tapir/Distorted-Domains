@@ -20,6 +20,49 @@ If you beat the opposition you succeed at what you were trying to do. If you bea
 
 When an action results in a mixed success or a failure, raise a harm die to the next die level. The harm die raised will be the one from the harm track that matches the stat being rolled. If a harm die would be raised above a d12, then your traveler is incapaciated and can no longer take action until the next scene. In addition, they take on or raise a negative aspect. If a negative aspect is raised above a d12, your traveler is retired. Harm represents the difficulty of using a certain stat. This can be because of injury, stress, insecurity, or basically anything from a previous failure that may hold you back.
 
+#### Negative Aspects
+
+When you become incapacitated, roll or select from the table that most closely matches what your character was incapacitated by
+
+D10 | Injury
+:-: | :-:
+1   | Head
+2   | Neck
+3   | Hand
+4   | Arm
+5   | Shoulder
+6   | Chest
+7   | Stomach
+8   | Hip
+9   | Leg
+10  | Foot
+
+D10 | Tech/Magic
+:-: | :-:
+1   | Parasitic infestation
+2   | A Growing Corruption
+3   | The Darkness calls to you
+4   | Prone to Electrical Interference
+5   | Involuntary Larceny
+6   | An Insatiable Hunger
+7   | Inconsistent Gravity
+8   | Electromagnetic Sensitivity
+9   | Sharp growths
+10  | An Unusual Glow
+
+D10 | Social Blunder
+:-: | :-:
+1   | Tongue Tied
+2   | Always Rambling
+3   | Distrustful
+4   | Prone to Anger
+5   | Scared of Confrontation
+6   | Challenges everyone
+7   | Has to test everything
+8   | Forgetful
+9   | Mumbles
+10  | Paranoid
+
 #### Alternatives to Harm
 
 Sometimes Harm doesn't always make the most sense as a negative consequence. In these instances it can make sense to have a player traveler lose an asset, damage an asset, or take on a temporary aspect. One example is throwing an asset and failing that roll. In this instance it probably makes the most sense for the asset to be removed from play until it can be retrieved in the fiction. If an obstacle has an aspect that represents an ability to degrade an asset or to apply a condition that is not necessarily related to causing harm directly, you may also want to use an alternative to harm. If, for example, an obstacle is a creature that can spit acid, failing a roll against it could mean that your asset is damaged, and the die for it is lowered until it can be repaired. Or if the obstacle is something that holds you in place, then it could give you a temporary aspect such as "d6 bound" which represents a travelers inability to move and how difficult it is to get out of. These temporary aspects are removed when they are no longer relevant, usually at the end of the scene, or when they are removed from that situation.

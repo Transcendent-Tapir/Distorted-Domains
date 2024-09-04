@@ -116,5 +116,3 @@ Go around the table and have everyone suggest locations, npcs, factions, environ
 #### Step 4 - Rumors and Conflicts
 
 Each Player, including the DM, should introduce some sort of mystery, rumor, or conflict within the setting. Maybe two factions are fighting over resources or a location, maybe there's something mysterious going on in a given location, maybe a specific NPC has been acting weird lately, perhaps there are rumours related to unusual wildlife in an area.
-
-If during domain creation you ever get stuck and cannot come up with anything, you can use the table below for inspiration

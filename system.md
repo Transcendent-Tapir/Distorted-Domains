@@ -22,7 +22,7 @@ When an action results in a mixed success or a failure, raise a harm die to the 
 
 #### Negative Aspects
 
-When you become incapacitated, roll or select from the table that most closely matches what your character was incapacitated by
+When a traveler becomes incapacitated they can raise an existing negative aspect, or they can roll or select from the table that most closely matches what they were incapacitated by
 
 D10 | Injury
 :-: | :-:

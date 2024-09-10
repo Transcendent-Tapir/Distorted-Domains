@@ -8,7 +8,7 @@ Scenario: Ko and Wanda are negotiating a trade in Gastropolis. A street mime has
 
 Panel 1
 Ko: Where the hell did she go?
-Wanda: Yes, she seems to be quite elusive.
+Wanda: she seems to be quite elusive.
 Off-screen voice: You Lookin for Someone?
 
 2

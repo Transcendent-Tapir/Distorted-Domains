@@ -105,4 +105,19 @@ D8 | Thingy | Thing | of | Stuff
 7 | Self Deploying | Net | of | Tranquility
 8 | Leather | Fingerless Gloves | of | Sharpness
 
+#### Negative Aspects
+
+D10 | Aspect
+:-: | :-:
+1   | Sores oozing something acidic
+2   | Slowly Melting
+3   | Radioactive Breath
+4   | Has a sentient growth
+5   | Smoldering
+6   | Magnetic Blood
+7   | Flaming Head
+8   | Hard Scaley Growths
+9   | Crystalizing Hands
+10  | An unusual insatiable thirst
+
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

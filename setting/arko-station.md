@@ -72,4 +72,20 @@ D8 | Thingy | Thing | of | Stuff
 7 | Floral | Dress | of | Charisma
 8 | Delicious | Shell | of | Instability
 
+#### Negative Aspects
+If you get incapacitated in Arko Station, you can roll on this table for a negative aspect
+
+D10 | Aspect
+:-: | :-:
+1   | Curiously Shrinking Body Part
+2   | Slowly Calcifying
+3   | Occasionally desyncronized with time
+4   | Constantly changing age
+5   | Sees through dimensions
+6   | Disappearing bones
+7   | Inconsistent Gravity
+8   | Changes state of matter
+9   | Detatchable limbs
+10  | Robotic-Arachnid Infection
+
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

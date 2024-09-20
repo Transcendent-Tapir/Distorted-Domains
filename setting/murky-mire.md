@@ -110,4 +110,19 @@ D | Thingy | Thing | of | Stuff
 7 | Looping | Flower | of | Projection
 8 | Dank | Pottery | of | Introspection
 
+#### Negative Aspects
+
+D10 | Aspect
+:-: | :-:
+1   | A strange fungal growth
+2   | Waxy secretions
+3   | A parasitic vine growing inside you
+4   | Constantly covered in pollen
+5   | Inexplicably attracts insects
+6   | Always sticky
+7   | Rubbery limbs
+8   | Moss covered extremities
+9   | Constantly surrounded by mist
+10  | Needs to photosynthesize
+
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

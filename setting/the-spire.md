@@ -163,4 +163,19 @@ D8 | Thingy | Thing | of | Stuff
 7 | Ethereal | Hook | of | False Memories
 8 | Slimy | Barrel | of | Abundance
 
+#### Negative Aspects
+
+D10 | Aspect
+:-: | :-:
+1   | Evolving into a crab
+2   | Infested with tiny crustaeceans
+3   | Attracted to lights
+4   | Sharp Bony Growths
+5   | Body part replaced by a parasite
+6   | Sensitive to bright lights
+7   | Hungry for bones
+8   | Rusting at an unusual rate
+9   | Called by the deep
+10  | Unnaturally long neck
+
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

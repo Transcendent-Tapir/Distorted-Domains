@@ -1,18 +1,18 @@
 ---
 title: Gastropolis
 ---
-Gastrolopolis is a dieselpunk city on the back of a cosmic snail-dragon, which consumes everything in front of it. In the city, you'll find skyscrapers, jazz clubs, speakeasies, flying machines, and all manner of denizens. 
+Gastrolopolis is a dieselpunk city on the back of a cosmic snail-dragon, which consumes everything in front of it. In the city, you'll find skyscrapers, jazz clubs, speakeasies, flying machines, organized crime,  and all manner of denizens. 
 
 D8 | Problems
 :-: | :-:
-1 | The snail is going to travel through an asteroid field
-2 | The snail is going to travel through a star
-3 | The snail is going to travel through a black hole
-4 | The snail is going to travel through a civilization with a robust defense system
+1 | The snail is going to travel through a dangerous location such as a black hole or a civilization with a robust defense system
+2 | Someone didn't keep a promise that they made
+3 | People have begun acting more violent suddenly
+4 | An important trade shipment was disrupted
 5 | Resources are running low because the rich are hoarding them
-6 | something important has gone missing
-7 | a territory dispute between rival factions
-8 | someone is disrupting vital services
+6 | Something important has gone missing
+7 | A territory dispute between rival factions
+8 | Someone is disrupting vital services
 
 D8 | People
 :-: | :-:
@@ -26,17 +26,18 @@ D8 | People
 8 | Slime
 
 D12 | Occupations
-1 | Zeppelin Pilot
-2 | Auto Mechanic
-3 | Robot Doctor
-4 | Ripper Doc
-5 | Bodyguard
-6 | Musician
-7 | Waitress
-8 | Spy
-9 | Private Investigator
+:-: | :-:
+1  | Zeppelin Pilot
+2  | Auto Mechanic
+3  | Robot Doctor
+4  | Ripper Doc
+5  | Bodyguard
+6  | Musician
+7  | Waitress
+8  | Spy
+9  | Private Investigator
 10 | Magician
-11 |Secretary
+11 | Secretary
 12 | Mayor
 
 D8 | Locations
@@ -62,5 +63,20 @@ D8 | Thingy | Thing | of | Stuff
 6 | Wing-tip | Shoes | of | Dancing
 7 | Gold Plated | Cigarette | of | Transformation
 8 | Glowing | Martini Glass | of | Destruction 
+
+#### Negative Aspects
+
+D10 | Aspect
+:-: | :-:
+1   | Wanted by an inter-domain crime syndicate
+2   | Has a clutch of eggs attached
+3   | Slowly becoming bronze
+4   | Involuntary Bioluminescence
+5   | Too many eyes
+6   | Exhales smoke
+7   | Constantly hears local radio broadcasts
+8   | Emits cosmic radiation
+9   | Jazz music plays whenever you talk
+10  | Pants are always too tight
 
 *[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*

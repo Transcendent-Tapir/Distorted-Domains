@@ -22,7 +22,7 @@ When an action results in a mixed success or a failure, raise a harm die to the 
 
 #### Negative Aspects
 
-When a traveler becomes incapacitated they can raise an existing negative aspect, or they can roll or select from the table that most closely matches what they were incapacitated by
+When a traveler becomes incapacitated they can raise an existing negative aspect, or they can roll or select from the table that most closely matches what they were incapacitated by. As a guide, if a traveler had a negative aspect in the opposition pool when they were taken out, that aspect is raised. If no negative aspect was used, roll on a table below, or on a negative aspect table specific to the domain you are in. An exception to this could be if an enemy has a specific ability that would make sense to be a negative aspect, such as some sort of curse or poison.
 
 D10 | Injury
 :-: | :-:

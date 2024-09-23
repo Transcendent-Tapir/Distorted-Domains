@@ -153,7 +153,7 @@ D6 | Complication
 #### Artifacts and Reward Assets
 
 D8 | Thingy | Thing | of | Stuff
-:-: | :-:   | :-:   | :-: |
+:-: | :-:   | :-:   | :-: | :-:
 1 | Ancient | Harpoon | of | Darkness
 2 | Cursed | Bell | of | Paralyzing
 3 | Ornate | Tome | of | Lost knowledge

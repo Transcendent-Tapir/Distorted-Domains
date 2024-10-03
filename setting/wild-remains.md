@@ -9,7 +9,7 @@ D6 | Terrain
 :-: | :-:
 1 | Tar Pits
 2 | Chasms
-3 | Sand Storms
+3 | Desert
 4 | Quicksand
 5 | Cliffs
 6 | Unstable rock formations
@@ -120,4 +120,4 @@ D10 | Aspect
 9   | Crystalizing Hands
 10  | An unusual insatiable thirst
 
-*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*
+*[back to settings](../setting)*

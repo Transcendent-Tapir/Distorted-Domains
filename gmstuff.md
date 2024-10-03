@@ -29,7 +29,7 @@ Groups of NPCs can also be represented by dice, the same as a complex task. You 
 
 ### Turn Order
 
-If there is a lot going on in a scene, you may want to use a turn order. Generally speaking, the party initiating the conflict goes first, if this is unclear have the players roll to react to the situation. players who succeed can act before the opposition, players who fail will act after. if one of the opposing parties is a group, give them at least two actions. once everyone has gone you can either simply go around again, or have the players roll once more to establish turn order.
+If there is a lot going on in a scene, you may want to use a turn order. Generally speaking, the party initiating the conflict goes first, if this is unclear have the players roll to react to the situation. Instead of a harm die use the base die of the obstacle twice, and any dice relevant to being able to act quickly. players who succeed (including succeeding at a cost) can act before the opposition, players who fail will act after, no harm is dealt and no inspiration is given for a turn order roll. if one of the opposing parties is a group, give them at least two actions. once everyone has gone you can either simply go around again, or have the players roll once more to establish turn order, though this will likely slow the game down if you want to roll turn order every time.
 
 ### On Prep and Difficulty
 

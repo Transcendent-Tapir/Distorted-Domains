@@ -2,19 +2,19 @@ docs_list_title: Navigation
 docs:
 
 - title: Introduction
-  url: https://pennylescroche.github.io/Distorted-Domains/
+  url: index
 
 - title: System
-  url: https://pennylescroche.github.io/Distorted-Domains/system
+  url: system
 
 - title: Characters
-  url: https://pennylescroche.github.io/Distorted-Domains/characters
+  url: characters
 
 - title: Setting
-  url: https://pennylescroche.github.io/Distorted-Domains/setting
+  url: setting
 
 - title: Inspiration & Advancement
-  url: https://pennylescroche.github.io/Distorted-Domains/advancement
+  url: advancement
   
 - title: Running the Game
-  url: https://pennylescroche.github.io/Distorted-Domains/gmstuff
+  url: gmstuff

@@ -178,4 +178,4 @@ D10 | Aspect
 9   | Called by the deep
 10  | Unnaturally long neck
 
-*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*
+*[back to settings](../setting)*

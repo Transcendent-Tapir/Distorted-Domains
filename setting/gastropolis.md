@@ -14,7 +14,7 @@ D8 | Problems
 7 | A territory dispute between rival factions
 8 | Someone is disrupting vital services
 
-D8 | People
+D10 | People
 :-: | :-:
 1 | Cephalopod
 2 | Robot
@@ -24,6 +24,8 @@ D8 | People
 6 | Bigfoot
 7 | Unicorn
 8 | Slime
+9 | Mushroom
+10 | Living Stone
 
 D12 | Occupations
 :-: | :-:
@@ -79,4 +81,4 @@ D10 | Aspect
 9   | Jazz music plays whenever you talk
 10  | Pants are always too tight
 
-*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*
+*[back to settings](../setting)*

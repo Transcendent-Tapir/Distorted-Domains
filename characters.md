@@ -35,6 +35,8 @@ Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 
 You start with 3 positive aspects. Roll or select from the tables below, you can also create your own if you wish.
 
+For a D44 table, roll 2d4 where one represents the first digit and the second represents the second digit.
+
 D44 | I'm a(n)           | From
 :-: | :----------------: | :-:
 11  | Cyborg             | A high-tech city
@@ -54,20 +56,24 @@ D44 | I'm a(n)           | From
 43  | Centaur            | The eternal road
 44  | Shaved Bear        | Twisting catacombs
 
-D12 | I'm Known as a(n)| Job
+D44 | I'm Known as a(n)| Job
 :-: | :--------------: | :-:
-1   | Brutish          | Chef             
-2   | Cautious         | Cartographer     
-3   | Determined       | Inventor         
-4   | Mystical         | Mechanic         
-5   | Inventive        | Hunter           
-6   | Charismatic      | Pirate
-7   | Resourceful      | Scientist
-8   | Focused          | Mage
-9   | Reckless         | Student
-10  | Cheerful         | Mercenary
-11  | Mad              | Healer
-12  | Boastful         | Musician
+11  | Brutish          | Chef             
+12  | Cautious         | Cartographer     
+13  | Determined       | Inventor         
+14  | Mystical         | Mechanic         
+21  | Inventive        | Hunter           
+22  | Charismatic      | Pirate
+23  | Resourceful      | Scientist
+24  | Focused          | Mage
+31  | Reckless         | Student
+32  | Cheerful         | Mercenary
+33  | Mad              | Healer
+34  | Boastful         | Performer
+41  | Stoic            | Naturalist
+42  | Mysterious       | Rancher
+43  | Jovial           | Pilot
+44  | Cynical          | Writer
 
 
 D12 | I'm looking for

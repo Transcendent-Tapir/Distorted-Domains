@@ -125,4 +125,4 @@ D10 | Aspect
 9   | Constantly surrounded by mist
 10  | Needs to photosynthesize
 
-*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*
+*[back to settings](../setting)*

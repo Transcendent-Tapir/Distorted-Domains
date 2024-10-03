@@ -1,8 +1,8 @@
-# Distortion Dice
+# The System
 
 ### Overview
 
-The system of Distorted Domains is called Distortion Dice. It's a simple system. travelers have 3 stats, and an opposing harm track for each stat. travelers also have a number of aspects and assets. aspects can be things like background details and personality traits, and they can be positive or negative. Assets are physical things that travelers carry with them, and can only be used positively. While travelers can use all relevant aspects, assets are limited by how many a traveler can logically use at one time. You wouldn't expect your traveler to be able to use a lasso and a chainsaw at the same time, for example (unless you combine them, of course).
+Distorted Domains is built on a system called Distortion Dice. It's a simple system. travelers have 3 stats, and an opposing harm track for each stat. travelers also have a number of aspects and assets. aspects can be things like background details and personality traits, and they can be positive or negative. Assets are physical things that travelers carry with them, and can only be used positively. While travelers can use all relevant aspects, assets are limited by how many a traveler can logically use at one time. You wouldn't expect your traveler to be able to use a lasso and a chainsaw at the same time, for example (unless you combine them, of course). Each stat, harm track, asset, and aspect has a die rating to represent the narrative impact of that thing.
 
 ### Taking Action
 

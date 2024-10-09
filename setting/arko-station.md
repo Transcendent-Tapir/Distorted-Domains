@@ -88,4 +88,4 @@ D10 | Aspect
 9   | Detatchable limbs
 10  | Robotic-Arachnid Infection
 
-*[back to settings](https://pennylescroche.github.io/Distorted-Domains/setting)*
+*[back to settings](../setting)*

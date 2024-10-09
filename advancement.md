@@ -18,7 +18,7 @@ Gaining inspiration always takes place after a roll, so you cannot use the inspi
 
 You start each session with 1 inspiration. 
 
-Before a roll, you can use a point of inspiration to raise a die in your pool,use a die you cannot normally use in your pool, or lower a die in the opposing pool. You can spend multiple points and do this multiple times if you want.
+Before a roll, you can use a point of inspiration to raise a die in your pool, move a negative aspect die from the opposition pool to your dice pool, or lower a die in the opposing pool. You can spend multiple points and do this multiple times if you want.
 
 After a roll, you can change what kind of negative outcome you have. You can switch the harm track affected from the one you rolled with to a different one of your choosing. Instead of taking harm to a harm track you can spend an inspiration to take on or step up a negative trait. You can also spend inspiration to redirect harm to an asset, or to redirect harm from an asset to your harm track or to a different asset. If you redirect harm to prevent a harm track from going over a d12, you avoid incapacitation.
 
@@ -42,7 +42,7 @@ Use the table below to grant advancement based on the length of the adventure
 5         | 10           | 15           | 20
 
 
-Travelers have a goal, they are looking for something. If a traveler finds that thing, they gain 20 advancement. However, if a player wants to continue on with that same character, they must be given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.
+Travelers have a goal, they are looking for something. The "looking for" aspect tells us what this is, and the higher that die is, the closer they are to finding it. Once it reaches a d12, they are able to find what it is they're looking for within the narrative. Once they do, that character is retired unless they are given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.
 
 
 Things you can do with your advancement points

@@ -11,4 +11,4 @@ Distorted Domains is still under development and is undergoing playtesting, but 
 
 I have also made a [Google Sheets Character Keeper](https://docs.google.com/spreadsheets/d/1iD2N3VkBVdb9CuRejHPc5lP251gvXEScqiSs3g6OBUU/edit?usp=sharing) to use for playtesting the game. It will be updated as the game changes, but I can't guarantee that changes to the game will be reflected on the character keeper right away.
 
-Distorted Domains uses the CC-BY-SA-4.0 license. Use the game howevever you like. Hack it, extend it, make content for it. Just so long as you give proper attribution and share your derived work with an open license as well.
+The text of this website is licensed under the [Creative Comrades License](https://creativecomrades.org/). It is free for personal or commercial use except by any person or organization that is a multimillionaire, for bigoted or discrimination purposes, or for use in NFTs & cryptocurrency.

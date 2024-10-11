@@ -11,5 +11,4 @@ This game is meant to be weird and silly. The characters are meant to feel power
 
 There is a free [Google Sheets Character Keeper](https://docs.google.com/spreadsheets/d/1iD2N3VkBVdb9CuRejHPc5lP251gvXEScqiSs3g6OBUU/edit?usp=sharing) available.
 
-
 The text of this website is licensed under the [Creative Comrades License](https://creativecomrades.org/). It is free for personal or commercial use except by any person or organization that is a multimillionaire, for bigoted or discrimination purposes, or for use in NFTs & cryptocurrency.

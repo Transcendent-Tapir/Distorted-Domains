@@ -2,19 +2,19 @@ docs_list_title: Navigation
 docs:
 
 - title: Introduction
-  url: index
+  url: https://transtapir.games/index
 
 - title: System
-  url: system
+  url: https://transtapir.games/system
 
 - title: Characters
-  url: characters
+  url: https://transtapir.games/characters
 
 - title: Setting
-  url: setting
+  url: https://transtapir.games/setting
 
 - title: Inspiration & Advancement
-  url: advancement
+  url: https://transtapir.games/advancement
   
 - title: Running the Game
-  url: gmstuff
+  url: https://transtapir.games/gmstuff

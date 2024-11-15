@@ -99,9 +99,9 @@ D6 | Organisms
 
 #### Rewards in the Murky Mire
 
-D | Thingy | Thing | of | Stuff
+D8 | Thingy | Thing | of | Stuff
 :-: | :-:  | :-:   | :-: | :-:
-1 | Leather | Cape | of | |Bioluminesence
+1 | Leather | Cape | of | Bioluminesence
 2 | Aged | Stick | of | Pheremones
 3 | Lace | Umbrella | of | Nullification
 4 | Barbed | Mushrooms | of | Purification

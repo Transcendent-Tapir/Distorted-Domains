@@ -3,6 +3,8 @@ title: Running the Game
 ---
 # Running the Game
 
+If you are the Domain Manager, this section is for you. As the DM, your job is to describe the world, and have it react to what the players are doing. This can be done through NPCs, the environment, or the local flora and fauna. Be specific with what you are describing, the other players will often latch on to the things you describe, since you are their eyes and ears. You don't always have to have an answer ready, but you should expect them to be able to ask questions about or interact with anything that you describe to them. Be sure to present your players with obstacles, the life of a Traveler is not an easy one, and unexpected things can happen in any Domain.
+
 ### Setting the Scene
 
 An Adventure in Distorted Domains usually starts with the travelers in a new location. The feel of this location and some of the people around are described to them. As the players get to know this location, they will be presented with a problem, a conflict of some sort with the local people. Maybe something or someone has gone missing, maybe external forces are about to make some trouble, or maybe there's a simple disagreement that requires an outside perspective. Allow the players to react to the situation, for the travelers to meet the people involved, and see how things play out from there. 

@@ -1,8 +1,12 @@
-# The System
+# Playing the Game
 
-### Overview
+Distorted Domains is played like a conversation with some dice rolls involved. First the DM will set the scene, by describing where the Travelers are, who is near them, what those people are doing, etc. The other players will have the opportunity to react to this information by describing what their Traveler does. Afterwords, the DM will describe how that changes the situation by having the other characters, monsters, environment, etc. react to the action that the player took.
 
-Distorted Domains is built on a system called Distortion Dice. It's a simple system. travelers have 3 stats, and an opposing harm track for each stat. travelers also have a number of aspects and assets. aspects can be things like background details and personality traits, and they can be positive or negative. Assets are physical things that travelers carry with them, and can only be used positively. While travelers can use all relevant aspects, assets are limited by how many a traveler can logically use at one time. You wouldn't expect your traveler to be able to use a lasso and a chainsaw at the same time, for example (unless you combine them, of course). Each stat, harm track, asset, and aspect has a die rating to represent the narrative impact of that thing.
+Travelers have 3 stats, and a harm track for each stat. Travelers also have a number of aspects and assets. Aspects can be things like background details, goals, and personality traits, and they can be positive or negative. Assets are physical things that travelers carry with them, and can only be used positively. While travelers can use all relevant aspects, assets are limited by how many a traveler can logically use at one time. You wouldn't expect your traveler to be able to use a lasso and a chainsaw at the same time, for example (unless you combine them, of course). Each stat, harm track, asset, and aspect has a die rating to represent the narrative impact of that thing.
+
+If you are a playing a Traveler, it is your job to be both thoughtful and creative. Lean into your Travelers strengths as well as their flaws. Accept that the life of a Traveler means taking on risks, and don't be afraid of failure.
+
+The game is fundamentally about people traveling through the Domains in search of something and how that journey changes them. Their lives are not expected to be easy, and they will encounter many strange and challenging things in their travels. But alongside that, they will meet interesting people, have the opportunity to reunite loved ones, and create amazing memories.
 
 ### Taking Action
 

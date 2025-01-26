@@ -2,7 +2,11 @@
 Title: Example of Play
 nav_order: 9
 ---
-
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Example of Play
 
 Scenario: Ko and Wanda are negotiating a trade in Gastropolis. A street mime has potential information, but will not give it up freely. 

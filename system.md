@@ -1,3 +1,12 @@
+---
+title: Playing the Game
+nav_order: 2
+---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Playing the Game
 
 Distorted Domains is played like a conversation with some dice rolls involved. First the DM will set the scene, by describing where the Travelers are, who is near them, what those people are doing, etc. The other players will have the opportunity to react to this information by describing what their Traveler does. Afterwords, the DM will describe how that changes the situation by having the other characters, monsters, environment, etc. react to the action that the player took.

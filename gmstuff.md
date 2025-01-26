@@ -1,6 +1,12 @@
 ---
 title: Running the Game
+nav_order: 4
 ---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Running the Game
 
 If you are the Domain Manager, this section is for you. As the DM, your job is to describe the world, and have it react to what the players are doing. This can be done through NPCs, the environment, or the local flora and fauna. Be specific with what you are describing, the other players will often latch on to the things you describe, since you are their eyes and ears. You don't always have to have an answer ready, but you should expect them to be able to ask questions about or interact with anything that you describe to them. Be sure to present your players with obstacles, the life of a Traveler is not an easy one, and unexpected things can happen in any Domain.

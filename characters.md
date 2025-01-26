@@ -1,3 +1,12 @@
+---
+title: Characters
+nav_order: 3
+---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Characters
 
 Characters in Distorted Domains are called Travelers, as they are people who travel through the many domains in search of something. They have 3 stats. Strong, Skilled, and Smart. These can represent what you are doing or how you are approaching a task.

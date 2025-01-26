@@ -7,6 +7,9 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
     jtd.setTheme('dark')
 }
 </script>
+
+***This is a WIP script for what will be a comic that is an example of play for Distorted Domains. Our 4 example characters will be in the middle of a mission fighting mobsters and tracking down a woman in Gastropolis.***
+
 # Example of Play
 
 Scenario: Ko and Wanda are negotiating a trade in Gastropolis. A street mime has potential information, but will not give it up freely. 

@@ -1,3 +1,12 @@
+---
+title: Inspiration and Advancement
+nav_order: 7
+---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Inspiration and Advancement
 
 Inspiration and Advancement are two sides of the same coin in Distorted Domains. Inspiration serves as the games metacurrency, and advancement as its way to enhance characters. 

@@ -1,8 +1,9 @@
 ---
-Title: Example of Play #1
+Title: Example of Play
+nav_order: 9
 ---
 
-# Example of Play #1
+# Example of Play
 
 Scenario: Ko and Wanda are negotiating a trade in Gastropolis. A street mime has potential information, but will not give it up freely. 
 

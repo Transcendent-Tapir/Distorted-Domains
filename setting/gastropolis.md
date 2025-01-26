@@ -1,6 +1,12 @@
 ---
 title: Gastropolis
+parent: The Domains
 ---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 Gastrolopolis is a dieselpunk city on the back of a cosmic snail-dragon, which consumes everything in front of it. In the city, you'll find skyscrapers, jazz clubs, speakeasies, flying machines, organized crime,  and all manner of denizens. 
 
 D8 | Problems

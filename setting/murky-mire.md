@@ -1,6 +1,12 @@
 ---
 title: Murky Mire
+parent: The Domains
 ---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Murky Mire
 
 Murky Mire is a densely forested swamp, full of dangerous plants and wildlife. The water in the swamp is cloudy, yellow, and viscous. This is because it's full of the digestive enzymes of the trees, which feed on the flesh of any animal unlucky enough to get stuck in the water. There are exploding mushrooms, magpie-squitos, vines that twist and entangle you when you touch them. Even with all of this, there are those that have found their home in the Mire. They learn how to navigate the dark maze of roots and vines, they figure out how to traverse a sea of deadly plants, dangerous animals, and the acidic swamp water.

@@ -11,11 +11,11 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 
 If you are the Domain Manager, this section is for you. As the DM, your job is to describe the world, and have it react to what the players are doing. This can be done through NPCs, the environment, or the local flora and fauna. Be specific with what you are describing, the other players will often latch on to the things you describe, since you are their eyes and ears. You don't always have to have an answer ready, but you should expect them to be able to ask questions about or interact with anything that you describe to them. Be sure to present your players with obstacles, the life of a Traveler is not an easy one, and unexpected things can happen in any Domain.
 
-### Setting the Scene
+## Setting the Scene
 
 An Adventure in Distorted Domains usually starts with the travelers in a new location. The feel of this location and some of the people around are described to them. As the players get to know this location, they will be presented with a problem, a conflict of some sort with the local people. Maybe something or someone has gone missing, maybe external forces are about to make some trouble, or maybe there's a simple disagreement that requires an outside perspective. Allow the players to react to the situation, for the travelers to meet the people involved, and see how things play out from there. 
 
-### Obstacles
+## Obstacles
 
 Obstacles can be basically anything that stands in the way of a traveler doing the thing that they want to do. This could be a person, a situation, or an object. When a player attempts to overcome an obstacle they take an action, and they make a roll for that action. The player will assemble their die pool using their chosen stat, as well as any aspects or assets that would be beneficial in that situation. As the GM, you will create a die pool starting with the harm die associated with the players chosen stat, as well as any negative traits that may be relevant. Additionally, you should select a die to represent the obstacle itself. A d4 would be relatively low risk, something will a very small risk of failure, but enough that you still feel it's relevant to make a roll. A d6 is a moderate risk and should probably be considered the "baseline" level of obstacle. A d8 is slightly more challenging, but likely fairly doable, a d10 would be incredibly challenging, and a d12 would represent the highest possible level of challenge that can still be overcome. Any higher and the player simply does not roll, as the task would be impossible.
 
@@ -25,7 +25,7 @@ For complex tasks you may want to think about using multiple dice to represent t
 
 It's important to note that increasing a die size is more impactful on the odds of a player failing than increasing the number of dice, though both play a role. Adding more dice does require more roles and therefore give more opportunities for failure, and therefore dealing harm to travelers.
 
-### NPCs
+## NPCs
 
 NPCs are simply obstacles that have their own goals. Generally speaking an NPC will have a base die that represents how challenging of an obstacle that they might be. They can also have additional dice that represent what their goals are, something significant about their background, or an asset that they have. Sometimes the goal is simple if the character is relatively unimportant, and therefore it can be represented as part of the base die. For example you can have a d6 door guard who simply wants to guard the door. This guard could be fought, distracted, or bribed and all of these things would be relatively easy to do as they are simply a d6 obstacle. 
 
@@ -35,11 +35,11 @@ More notable NPCs will have more dice, as well as bigger dice. You could have a 
 
 Groups of NPCs can also be represented by dice, the same as a complex task. You can simply give them a 2d8 angry mob, or something similar. More dice can indicate larger mobs and higher dice can indicate a mob that is more of a threat to the players. Even if the mob has multiple dice assigned as a single obstacle, you still only keep the single highest die when you roll.
 
-### Turn Order
+## Turn Order
 
 If there is a lot going on in a scene, you may want to use a turn order. Generally speaking, the party initiating the conflict goes first, if this is unclear have the players roll to react to the situation. Instead of a harm die use the base die of the obstacle twice, and any dice relevant to being able to act quickly. players who succeed (including succeeding at a cost) can act before the opposition, players who fail will act after, no harm is dealt and no inspiration is given for a turn order roll. if one of the opposing parties is a group, give them at least two actions. once everyone has gone you can either simply go around again, or have the players roll once more to establish turn order, though this will likely slow the game down if you want to roll turn order every time.
 
-### On Prep and Difficulty
+## Prep and Difficulty
 
 Distorted Domains is designed with the idea of an emergent narrative. As such it is recommended that you prep situations, not plots. What this means more specifically is that when prepping for a Distorted Domains session, simply create a starting scenario with conflict already going on. Players will naturally be drawn to the conflict and will attempt to address it, but how they choose to do so is entirely up to them. You can also prep some potential obstacles which you can put in when they feel appropriate, as well as some complications that might occur if the players stall. As the GM it is your job to create the world and have it react to the players actions, including player inaction.
 
@@ -53,6 +53,6 @@ When it comes to challenging your players, you don't need to be very afraid of m
 
 It's important to remember that threats do not have to be a single die, many obstacles can be multi-faceted, or simply take some time to overcome. It's also important to remember that if an obstacle doesn't have a relevant die rating for the approach a traveler is using, you can simply judge the difficulty of their attempted action and give that a die rating.
 
-### Giving Rewards
+## Giving Rewards
 
 Rewards in Distorted Domains generally come in one of two forms. One is Advancement, which is how characters improve over time. The other is assets, which give characters new interesting items to use. Because of this, you should be sure to deal harm to assets and not just harm tracks, this ensures that assets will continuously be cycled through. Assets gained as rewards follow the same rules as assets at character creation. This being that the asset has a name and a die rating, and it is up to the Traveler that uses the asset for the first time to define how it works.

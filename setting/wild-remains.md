@@ -62,7 +62,7 @@ D10 | Remains
 9 | A machine that spins when energy sources are nearby
 10 | A rod that generates bubbles
 
-#### The People of the Wild Remains
+## The People of the Wild Remains
  
  **Wanderers** are nomadic people of the remains, living off what they can find
 
@@ -98,7 +98,7 @@ D6 | Raiders
 5 | Scouts
 6 | Trappers
 
-#### Rewards in the Wild Remains
+## Rewards in the Wild Remains
 
 D8 | Thingy | Thing | of | Stuff
 :-: | :-:   | :-:   | :-: | :-:
@@ -111,7 +111,7 @@ D8 | Thingy | Thing | of | Stuff
 7 | Self Deploying | Net | of | Tranquility
 8 | Leather | Fingerless Gloves | of | Sharpness
 
-#### Negative Aspects
+## Negative Aspects
 
 D10 | Aspect
 :-: | :-:

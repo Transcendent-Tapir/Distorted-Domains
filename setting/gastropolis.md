@@ -7,6 +7,8 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
     jtd.setTheme('dark')
 }
 </script>
+# Gastropolis
+
 Gastrolopolis is a dieselpunk city on the back of a cosmic snail-dragon, which consumes everything in front of it. In the city, you'll find skyscrapers, jazz clubs, speakeasies, flying machines, organized crime,  and all manner of denizens. 
 
 D8 | Problems
@@ -59,7 +61,7 @@ D8 | Locations
 7 | The factory
 8 | The warehouse
 
-#### Rewards and Assets
+## Rewards and Assets
 
 D8 | Thingy | Thing | of | Stuff
 :-: | :-:   | :-:   | :-: | :-:
@@ -72,7 +74,7 @@ D8 | Thingy | Thing | of | Stuff
 7 | Gold Plated | Cigarette | of | Transformation
 8 | Glowing | Martini Glass | of | Destruction 
 
-#### Negative Aspects
+## Negative Aspects
 
 D10 | Aspect
 :-: | :-:

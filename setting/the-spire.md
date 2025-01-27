@@ -7,11 +7,11 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
     jtd.setTheme('dark')
 }
 </script>
-## The Spire
+# The Spire
 
 A glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. At the bottom is a thriving city full of aquatic mammals run by the orca mafia. Inside lies only mystery.
 
-### Upper Spire
+## Upper Spire
 
 The upper spire sits above the surface of the water. Here there is more light coming in from the windows. The floors at the top are smaller, with tiny rooms and narrow corridoors. This part of the spire is less dangerous than lower floors, and also barren in comparison.
 
@@ -35,7 +35,7 @@ D6 | Rooms
 5 | Storage
 6 | Pipe maintenance
 
-### Lower Spire
+## Lower Spire
 
 The Lower Spire has much larger floors than above. The dark winding pathways and large open areas form a nearly impossible to traverse maze of faintly glowing crystal. The bottom half of the Spire is far more mysterious and dangerous than the floors above.
 
@@ -68,7 +68,7 @@ D6 | Modifiers
 7 | Infinite
 8 | Decomposing
 
-#### Rumors
+### Rumors
 The lower spire is full of mysterious, and rumors run wild. Here are some rumours that the players might have heard
 
 D8 | There's a |   -    | that 
@@ -82,7 +82,7 @@ D8 | There's a |   -    | that
 7 | ancient   | guardian |  stalks you and poisons you in your sleep
 8 | Cursed    | shipwreck | moves in mysterious and unpredictable ways
 
-### Base city
+## Base city
 
 At the base of the spire is a sprawling city. Built from a combination of natural materials and the scraps of shipwrecks, this place is home to a large number of sea creatures. This bustling metropolis at the bottom of the sea is full of art, beauty, and love as well as corruption, violence, and desperation.
 
@@ -121,7 +121,7 @@ D8 | Personality
 7 | Paranoid
 8 | Flirtatious
 
-#### Jobs in the city
+### Jobs in the city
 
 There's no shortage of jobs to be done in the city. A vandal might want access to secure areas, a suitor might ask for rare jewels, or perhaps a bakery needs protection from a loan shark.
 
@@ -156,7 +156,7 @@ D6 | Complication
 
 
 
-#### Artifacts and Reward Assets
+### Artifacts and Reward Assets
 
 D8 | Thingy | Thing | of | Stuff
 :-: | :-:   | :-:   | :-: | :-:
@@ -169,7 +169,7 @@ D8 | Thingy | Thing | of | Stuff
 7 | Ethereal | Hook | of | False Memories
 8 | Slimy | Barrel | of | Abundance
 
-#### Negative Aspects
+### Negative Aspects
 
 D10 | Aspect
 :-: | :-:

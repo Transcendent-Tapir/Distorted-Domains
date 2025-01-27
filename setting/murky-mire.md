@@ -15,7 +15,7 @@ Murky Mire is a densely forested swamp, full of dangerous plants and wildlife. T
 
 A village in an acidic swamp with carnivorous trees. People mostly live in huts raised above the deadly water. The wildlife is large and dangerous. You will see giant insects, amphibians, and reptiles that the denizens have learned to avoid or live along side of.
 
-#### Villager
+### Villager
 
 D6 | Species
 :-: | :-:
@@ -46,7 +46,7 @@ D6 | Personality
 5 | Boastful
 6 | Anxious
 
-### The Swamp
+## The Swamp
 
 D6 | Plants & Fungi
 :-: | :-:
@@ -79,7 +79,7 @@ D8 | Assets and Rewards
 7 | Frog-Leather Jacket of Immunity
 8 | Ancient Stick of Magical Inscription
 
-### The Smoldering Caves
+## The Smoldering Caves
 
 At the edge of the swamp, is the mouth of a cave that goes into the side of an unfathomably high mountain. The side of the mountain is sheer and impossible to climb. The water in the cave is less acidic, and it's home to a number of bioluminescent fungi. Deep in the caves are vents that release a mineral rich smoke, heating the cave and providing nutrients to the life within it, but making it hard to breathe for those that aren't adapted
 
@@ -103,7 +103,7 @@ D6 | Organisms
 5 | Skunkbats
 6 | Catapult Shrimp
 
-#### Rewards in the Murky Mire
+## Rewards in the Murky Mire
 
 D8 | Thingy | Thing | of | Stuff
 :-: | :-:  | :-:   | :-: | :-:
@@ -116,7 +116,7 @@ D8 | Thingy | Thing | of | Stuff
 7 | Looping | Flower | of | Projection
 8 | Dank | Pottery | of | Introspection
 
-#### Negative Aspects
+## Negative Aspects
 
 D10 | Aspect
 :-: | :-:

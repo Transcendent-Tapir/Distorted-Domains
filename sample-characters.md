@@ -1,5 +1,5 @@
 ---
-title: Sample Characters
+#title: Sample Characters
 nav_order: 8
 ---
 <script>

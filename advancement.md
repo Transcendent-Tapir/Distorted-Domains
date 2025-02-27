@@ -18,7 +18,7 @@ Inspiration and Advancement are two sides of the same coin in Distorted Domains.
 Inspiration is gained from
 - Taking harm
 - Helping an ally recover from harm
-- Rolls that use a negative aspect
+- When the DM uses a negative aspect against you
 - As a possible bonus from a critical success
 
 Gaining inspiration always takes place after a roll, so you cannot use the inspiration you gain from using a negative aspect in that same roll.
@@ -28,6 +28,8 @@ Gaining inspiration always takes place after a roll, so you cannot use the inspi
 You start each session with 1 inspiration. 
 
 Before a roll, you can use a point of inspiration to raise a die in your pool, move a negative aspect die from the opposition pool to your dice pool, or lower a die in the opposing pool. You can spend multiple points and do this multiple times if you want.
+
+If you spend inspiration to use a negative aspect in your favor, you dont gain inspiration from that negative aspect since the DM cant use it against you.
 
 After a roll, you can change what kind of negative outcome you have. You can switch the harm track affected from the one you rolled with to a different one of your choosing. Instead of taking harm to a harm track you can spend an inspiration to take on or step up a negative trait. You can also spend inspiration to redirect harm to an asset, or to redirect harm from an asset to your harm track or to a different asset. If you redirect harm to prevent a harm track from going over a d12, you avoid incapacitation.
 

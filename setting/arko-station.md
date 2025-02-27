@@ -65,6 +65,26 @@ D8 |Spacetime Anomalies:
 
 sometimes sections of the station become lost, losing all connections to the rest of the station. Forgotten sectors can't be found, instead they find you, with unusual doors and pathways that disappear if you look away too long. Such as a spiral staircase coming out of a wall, or a ladder inside a walk in freezer. The only way to escape the a forgotten sector is to hope that you live long enough for the station to release you. Forgotten Sectors often have a higher than normal occurence of spacetime anomalies, radiation, and other unidentified energies. Due to this, they are full of unusual and dangerous lifeforms.
 
+D8 | Forgotten Sector Creatures
+:-: | :-:
+1  | A corpse being controlled by parasitic worms
+2  | An unstable energy being
+3  | A sentient slime mold
+4  | A shadow being with too many limbs
+5  | An ambush predator with eyes everywhere
+6  | A melting mutant that feeds on life force
+7  | A virus that infects others through sound
+8  | A corrupted digital intelligence
+
+D6 | Forgotten Sector Dangers and Anomalies
+:-: | :-:
+1  | Mutating Radiation
+2  | Mind Altering Spores
+3  | Gravity Storms
+4  | Disappearing Doors
+5  | Rapid Aging
+6  | Extreme size changes
+
 ## Rewards and Assets
 
 D8 | Thingy | Thing | of | Stuff

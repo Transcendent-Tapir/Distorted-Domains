@@ -9,7 +9,7 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 </script>
 # The Wild Remains
 
-The wild remains is an irradiated wasteland full of dangers wildlife. Generally speaking, people must take shelter or cover up to shield themselves. People live in small settlements, some go out to look for supplies, others for the lost technologies of past civilizations. You'll often find people in shelters made from the ruins of a past civilization, or the remains of giant creatures.
+The wild remains is an irradiated wasteland full of dangers wildlife. Generally speaking, people must take shelter or cover up to shield themselves from the heat and radiation of the sun. People live in small settlements, some go out to look for supplies, others for the lost technologies of past civilizations. You'll often find people in shelters made from the ruins of a past civilization, or the remains of giant creatures.
 
 D6 | Terrain
 :-: | :-:
@@ -63,40 +63,59 @@ D10 | Remains
 10 | A rod that generates bubbles
 
 ## The People of the Wild Remains
- 
- **Wanderers** are nomadic people of the remains, living off what they can find
 
- D6 | Wanderers
- :-: | :-:
-1 | Protectors
-2 | Storytellers
-3 | Navigators
-4 | Gatherers
-5 | Weavers
-6 | Cooks
- 
- **Villagers** are people living in settlements. They occasionally venture out in search of supplies or to trade food they've grown with the wanderers
- 
- D6 | Villagers
- :-: | :-:
-1 | Farmers
-2 | Builders
-3 | Engineers
-4 | Teachers
-5 | Archivists
-6 | Hunters
- 
- 
- **Raiders** are violent nomads who wish to take everything of value from those that they run into
+The Wild Remains is home to many different types of people
 
-D6 | Raiders
+D6 | Personality | Type
+:-: | :-: | :-:
+1  | Stoic | Insectoid
+2  | Playful | Reptilian
+3  | Angressive | Ork
+4  | Caring | Cactus Ent
+5  | Distrustful | Gnome
+6  | Curious | Avian
+
+People here broadly fit into one of 3 groups, the Wanderers, the Villagers, and the Raiders
+
+### Wanderers
+
+Nomadic people of the remains, living off what they can find
+
+D6 | Wanderer jobs
 :-: | :-:
-1 | Sharpshooters
-2 | Beast Keepers
-3 | Beserkers
-4 | Bombers
-5 | Scouts
-6 | Trappers
+1 | Protector
+2 | Storyteller
+3 | Navigator
+4 | Gatherer
+5 | Weaver
+6 | Cook
+ 
+### Villagers 
+
+People living in settlements. They occasionally venture out in search of supplies or to trade food they've grown with the wanderers and other villages
+ 
+D6 | Villager jobs
+:-: | :-:
+1 | Farmer
+2 | Builder
+3 | Engineer
+4 | Teacher
+5 | Archivist
+6 | Hunter
+ 
+ 
+### Raiders
+
+Violent nomads who wish to take everything of value from those that they run into
+
+D6 | Raider jobs
+:-: | :-:
+1 | Sharpshooter
+2 | Beast Keeper
+3 | Beserker
+4 | Bomber
+5 | Scout
+6 | Trapper
 
 ## Rewards in the Wild Remains
 

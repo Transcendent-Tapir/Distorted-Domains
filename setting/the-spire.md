@@ -9,7 +9,10 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 </script>
 # The Spire
 
-A glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. At the bottom is a thriving city full of aquatic mammals run by the orca mafia. Inside lies only mystery.
+The Spire is glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. 
+At the bottom is a thriving city known as Spire City full of aquatic animals. Spire City is a diverse metropolis supporting all kinds of sea life where you can find any sort of undersea experience you can think of. Spire City is run by the Orca Mafia, who have their fins in everything. 
+
+Inside the Spire lies untold treasures, danger, and mystery. Some explore the Spire to make great discoveries, others to hide from the Orca mafia, and others still seeking glory from defeating the beasts that lie within.
 
 ## Upper Spire
 
@@ -41,12 +44,16 @@ The Lower Spire has much larger floors than above. The dark winding pathways and
 
 D6 | Creatures
 :-: | :-:
-1 | Whale
+1 | Sperm Whale
 2 | Basking Shark
 3 | Anglerfish
 4 | Goblin Shark
 5 | Mantis Shrimp
 6 | Giant Squid
+7 | Siphonophore
+8 | Orca
+9 | Jellyfish
+10 | Oarfish
 
 D6 | Rooms
 :-: | :-:
@@ -57,16 +64,16 @@ D6 | Rooms
 5 | Ship Graveyard
 6 | Caverns with intricately carved walls
 
-D6 | Modifiers
-:-: | :-:
-1 | Vampiric
-2 | Magical
-3 | Mechanical
-4 | Teleporting
-5 | Glowing
-6 | Ethereal
-7 | Infinite
-8 | Decomposing
+D8 | Unusual attributes  
+:-: | :-: 
+1 | Vampiric  
+2 | Magical  
+3 | Mechanical  
+4 | Teleporting   
+5 | Glowing   
+6 | Ethereal  
+7 | Infinite   
+8 | Decomposing 
 
 ### Rumors
 The lower spire is full of mysterious, and rumors run wild. Here are some rumours that the players might have heard
@@ -155,8 +162,7 @@ D6 | Complication
 6 | It must be kept secret
 
 
-
-### Artifacts and Reward Assets
+### Rewards in The Spire
 
 D8 | Thingy | Thing | of | Stuff
 :-: | :-:   | :-:   | :-: | :-:
@@ -170,6 +176,7 @@ D8 | Thingy | Thing | of | Stuff
 8 | Slimy | Barrel | of | Abundance
 
 ### Negative Aspects
+If you get incapacitated in The Spire, roll on the table for a negative aspect
 
 D10 | Aspect
 :-: | :-:

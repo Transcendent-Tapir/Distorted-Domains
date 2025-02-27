@@ -11,9 +11,29 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 
 Murky Mire is a densely forested swamp, full of dangerous plants and wildlife. The water in the swamp is cloudy, yellow, and viscous. This is because it's full of the digestive enzymes of the trees, which feed on the flesh of any animal unlucky enough to get stuck in the water. There are exploding mushrooms, magpie-squitos, vines that twist and entangle you when you touch them. Even with all of this, there are those that have found their home in the Mire. They learn how to navigate the dark maze of roots and vines, they figure out how to traverse a sea of deadly plants, dangerous animals, and the acidic swamp water.
 
+D6 | Plants & Fungi
+:-: | :-:
+1 | Creeping Vine
+2 | Hypnoflower
+3 | Popping Caps
+4 | Tacky Moss
+5 | Arrowwood Bush
+6 | Banegrass
+
+D8 | Creatures
+:-: | :-:
+1 | Tree Snappers
+2 | Boulder Crab
+3 | Sparking Salamander
+4 | Mantis Viper
+5 | Buffalo Frog
+6 | Spider Monkey
+7 | Mothipede
+8 | Magpie-squito
+
 ## Shimmering Fen
 
-A village in an acidic swamp with carnivorous trees. People mostly live in huts raised above the deadly water. The wildlife is large and dangerous. You will see giant insects, amphibians, and reptiles that the denizens have learned to avoid or live along side of.
+This village is only known settlement of Murky Mire. People mostly live in huts raised above the deadly water, connected by raised walkways. Technology here is often cobbled together from broken equipment left behind by travelers and parts from the strange flora and fauna of the mire. You'll see people communicating with a datapad hooked up to a growing mushroom, or traveling in a vehicle made a rusty car body and legs from a giant insect.
 
 ### Villager
 
@@ -45,39 +65,6 @@ D6 | Personality
 4 | Sarcastic
 5 | Boastful
 6 | Anxious
-
-## The Swamp
-
-D6 | Plants & Fungi
-:-: | :-:
-1 | Creeping Vine
-2 | Hypnoflower
-3 | Popping Caps
-4 | Tacky Moss
-5 | Arrowwood Bush
-6 | Banegrass
-
-D8 | Creatures
-:-: | :-:
-1 | Tree Snappers
-2 | Boulder Crab
-3 | Sparking Salamander
-4 | Mantis Viper
-5 | Buffalo Frog
-6 | Spider Monkey
-7 | Mothipede
-8 | Magpie-squito
-
-D8 | Assets and Rewards
-:-: | :-:
-1 | Frogskin Goggles of Diagnosis
-2 | Clay Paintbrush of Poison
-3 | Smoking Goblet of Shadows
-4 | Recycled Bicycle of Gravity
-5 | Brightly Colored Megaphone of Enchanting
-6 | Sonic Wrench of Locks
-7 | Frog-Leather Jacket of Immunity
-8 | Ancient Stick of Magical Inscription
 
 ## The Smoldering Caves
 
@@ -115,8 +102,13 @@ D8 | Thingy | Thing | of | Stuff
 6 | Upside-Down | Crystal | of | Transportation
 7 | Looping | Flower | of | Projection
 8 | Dank | Pottery | of | Introspection
+9 | Frogskin | Goggles | of | Diagnosis
+10 | Clay | Paintbrush | of | Poison
+11 | Sonic | Wrench | of | Immunity
+12 | Ancient | Goblet | of | Inscription
 
 ## Negative Aspects
+If you get incapacitated in Murky Mire, roll on the table for a negative aspect
 
 D10 | Aspect
 :-: | :-:

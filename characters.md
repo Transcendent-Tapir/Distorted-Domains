@@ -155,18 +155,21 @@ Asset names are meant to be evocative and open to interpretation, a Delicious Ga
 
 ### Finishing Up
 
-It's not at all necessary, but it can be helpful to answer some of the following questions about your character.
+You now have a character with assets, aspects, and stats. This is enough to start playing, but if your group would like, you can answer some additional questions to learn more about your Travelers and how they're connected. Have each player select 3 of the questions below, and ask each one to a traveler of their choice.
 
-- Which fellow traveler do you trust the most?
-- Which fellow traveler makes you nervous?
-- What is your favorite food?
-- What incident led to you becoming a traveler?
-- Is there anyone you are trying to impress?
-- What is most peoples first impression of you?
-- What are some of your hobbies?
-- Who was your childhood best friend?
-- Do you have any family, either found or biological?
-- How do you move around?
-- What artistic medium do you consume the most? (comics, music, tv shows, dream powder, etc)
+D12 | Question
+:-: | :-:
+1 | Which fellow traveler do you trust the most?
+2 | Which fellow traveler makes you nervous?
+3 | What is your favorite food?
+4 | What incident led to you becoming a traveler?
+5 | Who are you trying to impress?
+6 | What is most peoples first impression of you?
+7 | What are some of your hobbies?
+8 | Who was your childhood best friend?
+9 | Do you have any family, either found or biological?
+10 | How do you move around?
+11 | What artistic medium do you consume the most? (comics, music, tv shows, dream powder, etc)
+12 | Who would you die for, and who would you kill for?
 
-These questions, when combined with the aspects of your character can help you create a backstory and connections to other characters. The DM can use this information to give you more opportunities to explore who your character is and what they want. These also help you figure out your characters personality, outward appearance, and just overall vibe.
+These answers, when combined with the aspects of your character can help you create a backstory and connections to other characters. The DM can use this information to give you more opportunities to explore who your character is and what they want. These also help you figure out your characters personality, outward appearance, and just overall vibe.

@@ -7,7 +7,7 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
     jtd.setTheme('dark')
 }
 </script>
-# Distorted Domains
+# The Domains
 
 Distorted Domains takes place in a broken universe that's organized into different Domains. Each Domain will have a theme, and they can vary in size from nearly infinite to a single building. There is no official canon for Distorted Domains, or put another way, all Domains and adventures are officially a part of the infinite number of Domains that make up the universe. 
 

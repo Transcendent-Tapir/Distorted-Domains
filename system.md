@@ -76,7 +76,11 @@ D10 | Social Blunder
 
 ### Alternatives to Harm
 
-Sometimes Harm doesn't always make the most sense as a negative consequence. In these instances it can make sense to have a player traveler lose an asset, damage an asset, or take on a temporary aspect. One example is throwing an asset and failing that roll. In this instance it probably makes the most sense for the asset to be removed from play until it can be retrieved in the fiction. If an obstacle has an aspect that represents an ability to degrade an asset or to apply a condition that is not necessarily related to causing harm directly, you may also want to use an alternative to harm. If, for example, an obstacle is a creature that can spit acid, a living magma entity, or a difficult to pick lock, failing a roll against it could mean that your asset is damaged, and the die for it is lowered until it can be repaired. If the obstacle is something that holds you in place, then it could give you a temporary aspect such as "d6 bound" which represents a travelers inability to move and how difficult it is to get out of. These temporary aspects are removed when they are no longer relevant, usually at the end of the scene, or when they are removed from that situation.
+Sometimes Harm doesn't always make the most sense as a negative consequence. In these instances it can make sense to have a player traveler lose an asset, damage an asset, or take on a temporary aspect. One example is throwing an asset and failing that roll. In this instance it probably makes the most sense for the asset to be removed from play until it can be retrieved in the fiction. 
+
+If an obstacle has an aspect that represents an ability to degrade an asset or to apply a condition that is not necessarily related to causing harm directly, you may also want to use an alternative to harm. If, for example, an obstacle is a creature that can spit acid, a living magma entity, or a difficult to pick lock, failing a roll against it could mean that your asset is damaged, and the die for it is lowered until it can be repaired. 
+
+If the obstacle is something that holds you in place, then it could give you a temporary aspect such as "d6 bound" which represents a travelers inability to move and how difficult it is to get out of. These temporary aspects are removed when they are no longer relevant, usually at the end of the scene, or when they are removed from that situation.
 
 ## Pushing your luck
 

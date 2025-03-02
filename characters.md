@@ -142,7 +142,7 @@ D46 | thingy     | thing      | of  | stuff
 32  | Spiked     | Skillet    | of  | Song
 33  | Hairy      | Trombone   | of  | Shadow
 34  | Bone       | Chainsaw   | of  | the Void
-35  | Venomous   | Spatula    | of  | Shrinking
+35  | Venomous   | Spatula    | of  | Hardening
 36  | Delicious  | Chain      | of  | Meat
 41  | Floating   | Teapot     | of  | Shedding
 42  | Bedazzled  | Lantern    | of  | Regeneration

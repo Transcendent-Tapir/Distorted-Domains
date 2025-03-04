@@ -32,7 +32,7 @@ The tables below are used to help you create your traveler. With the stat table,
 
 ### Stats
 
-Each Column 1-10 represents a potential set of stats that you can have. Select or roll a d10 for your stats from the table below. Note that you are rolling or selecting the set of stats below each number.
+Each Row 1-10 represents a potential set of stats that you can have. Select or roll a d10 for your stats from the table below. Note that you are rolling or selecting the set of stats next to each number, and should not roll more than once.
 
 D10 | Strong | Skilled | Smart
 :-: | :----: | :-----: | :---:
@@ -176,7 +176,7 @@ D12 | Question
 8 | Who was your childhood best friend?
 9 | Do you have any family, either found or biological?
 10 | How do you move around?
-11 | What artistic medium do you consume the most? (comics, music, tv shows, dream powder, etc)
+11 | What artistic medium is your favorite? (comics, music, tv, dream powder, memory drops, etc)
 12 | Who would you die for, and who would you kill for?
 
 These answers, when combined with the aspects of your character can help you create a backstory and connections to other characters. The DM can use this information to give you more opportunities to explore who your character is and what they want. These also help you figure out your characters personality, outward appearance, and just overall vibe.

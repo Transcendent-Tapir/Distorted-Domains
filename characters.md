@@ -25,11 +25,18 @@ The tables below are used to help you create your traveler. With the stat table,
 
 Each Column 1-10 represents a potential set of stats that you can have. Select or roll a d10 for your stats from the table below. Note that you are rolling or selecting the set of stats below each number.
 
-D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
- :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-Strong   | d4  | d4  | d10 | d8  | d8  | d6  | d4  | d6  | d4  | d6
-Skilled  | d4  | d10 | d4  | d6  | d4  | d8  | d8  | d4  | d6  | d6
-Smart    | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
+D10 | Strong | Skilled | Smart
+:-: | :----: | :-----: | :---:
+1   | d4     | d4      | d10
+2   | d4     | d10     | d4
+3   | d10    | d4      | d4
+4   | d8     | d6      | d4
+5   | d8     | d4      | d6
+6   | d6     | d8      | d4
+7   | d4     | d8      | d6
+8   | d6     | d4      | d8
+9   | d4     | d6      | d8
+10  | d6     | d6      | d6
 
 ### Aspects
 
@@ -146,18 +153,21 @@ Asset names are meant to be evocative and open to interpretation, a Delicious Ga
 
 #### Finishing Up
 
-It's not at all necessary, but it can be helpful to answer some of the following questions about your character.
+It's not at all necessary, but it can be helpful to answer some of the following questions about your character. Have each player choose or roll for a question for each of the Travelers other than their own.
 
-- Which fellow traveler do you trust the most?
-- Which fellow traveler makes you nervous?
-- What is your favorite food?
-- What incident led to you becoming a traveler?
-- Is there anyone you are trying to impress?
-- What is most peoples first impression of you?
-- What are some of your hobbies?
-- Who was your childhood best friend?
-- Do you have any family, either found or biological?
-- How do you move around?
-- What artistic medium do you consume the most? (comics, music, tv shows, dream powder, etc)
+D12 | Question
+:-: | :-:
+1 | Which fellow traveler do you trust the most?
+2 | Which fellow traveler makes you nervous?
+3 | What is your favorite food?
+4 | What incident led to you becoming a traveler?
+5 | Is there anyone you are trying to impress?
+6 | What is most peoples first impression of you?
+7 | What are some of your hobbies?
+8 | Who was your childhood best friend?
+9 | Do you have any family, either found or biological?
+10 | How do you move around?
+11 | What artistic medium do you consume the most? (comics, music, tv shows, dream powder, etc)
+12 | Who would you die for, and who would you kill for?
 
 These questions, when combined with the aspects of your character can help you create a backstory and connections to other characters. The DM can use this information to give you more opportunities to explore who your character is and what they want. These also help you figure out your characters personality, outward appearance, and just overall vibe.

@@ -1,4 +1,13 @@
-# Distorted Domains
+---
+title: The Domains
+nav_order: 5
+---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
+# The Domains
 
 Distorted Domains takes place in a broken universe that's organized into different Domains. Each Domain will have a theme, and they can vary in size from nearly infinite to a single building. There is no official canon for Distorted Domains, or put another way, all Domains and adventures are officially a part of the infinite number of Domains that make up the universe. 
 
@@ -39,13 +48,13 @@ A dieselpunk city on the shell of a snail dragon traversing the cosmos. Get a dr
 
 Badlands with settlements built around the ruins of ancient civilizations and the bones of fallen monsters. Explore ancient ruins, fight giant monsters, deal with bandits, trade rare goods with other travelers.
 
-## Creating your own Domain
+# Creating your own Domain
 
-### Simple Domain Creation
+## Simple Domain Creation
 
 You can use the tables below to create a location and a starting scenario
 
-#### Setting Spark Table:
+### Setting Spark Table:
 
 D12 | Descriptor | Type    | Place  |
 :-: | :-:        | :-:     | :-:
@@ -62,7 +71,7 @@ D12 | Descriptor | Type    | Place  |
 11  | Sunken     | Lighthouse | In a Bog of fungus and twisted roots
 12  | Frozen     | Amusement Park | In a mountain pass
 
-#### Scenario Spark Table:
+### Scenario Spark Table:
 
 D8  | Person | Needs help to | this thing
 :-: | :----: | :-----------: | :-----------:
@@ -75,11 +84,11 @@ D8  | Person | Needs help to | this thing
 7   | Lost Soul | Befriend   | Three goblins in a trenchcoat
 8   | Wanderer  | Devour     | Shadow that slowly consumes everything
 
-### Collaborative Domain Creation
+## Collaborative Domain Creation
 
 If your group likes, you can build a domain to play in together.
 
-#### Step 1 - Size
+### Step 1 - Size
 
 The first step in domain creation is to determine the size and scope of the domain. Domains can be endless, as small as a single room, or anywhere in between. They roughly break down into the following sizes:
 - Seemingly Infinite. With no known ends
@@ -89,7 +98,7 @@ The first step in domain creation is to determine the size and scope of the doma
 - Small. A small community with a collection of homes and shops
 - Tiny. A single structure, such as a large treehouse, a space ship, or a shopping mall
 
-#### Step 2 - Themes
+### Step 2 - Themes
 
 Get a word or phrase from each player at the table, including the GM. This could be anything, like "demons", "gold", "tower", "weird west", "clouds", or "evil". Try arranging the words in different ways until the group comes to a consensus on what their favorite arrangement is. That's the start of your domain. 
 
@@ -105,10 +114,10 @@ D68 | 1 |  2 |  3 |  4 |  5 |  6
 7  | Darkness	|	Fire	|	Frozen	|	Spiral	|	Mafia	|	Corporation	
 8  | Farm	|	Rotting	|	Tower	|	Quantum	|	Cliff	|	Hut
 
-#### Step 3 - Details
+### Step 3 - Details
 
 Go around the table and have everyone suggest locations, npcs, factions, environment details, and wildlife. Do this until you have a few examples for each category. To flesh out the setting further, connect these details in ways that the group thinks make sense. Putting certain NPCs with specific factions, putting points of interest and specific environment details in specific locations and the like.
 
-#### Step 4 - Rumors and Conflicts
+### Step 4 - Rumors and Conflicts
 
 Each Player, including the DM, should introduce some sort of mystery, rumor, or conflict within the setting. Maybe two factions are fighting over resources or a location, maybe there's something mysterious going on in a given location, maybe a specific NPC has been acting weird lately, perhaps there are rumours related to unusual wildlife in an area.

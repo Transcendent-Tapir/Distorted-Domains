@@ -1,11 +1,20 @@
 ---
 title: The Spire
+parent: The Domains
 ---
-## The Spire
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
+# The Spire
 
-A glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. At the bottom is a thriving city full of aquatic mammals run by the orca mafia. Inside lies only mystery.
+The Spire is glowing crystal tower that rises to the skies from the ocean floor. The water around it turns to vapor. 
+At the bottom is a thriving city known as Spire City full of aquatic animals. Spire City is a diverse metropolis supporting all kinds of sea life where you can find any sort of undersea experience you can think of. Spire City is run by the Orca Mafia, who have their fins in everything. 
 
-### Upper Spire
+Inside the Spire lies untold treasures, danger, and mystery. Some explore the Spire to make great discoveries, others to hide from the Orca mafia, and others still seeking glory from defeating the beasts that lie within.
+
+## Upper Spire
 
 The upper spire sits above the surface of the water. Here there is more light coming in from the windows. The floors at the top are smaller, with tiny rooms and narrow corridoors. This part of the spire is less dangerous than lower floors, and also barren in comparison.
 
@@ -29,18 +38,22 @@ D6 | Rooms
 5 | Storage
 6 | Pipe maintenance
 
-### Lower Spire
+## Lower Spire
 
 The Lower Spire has much larger floors than above. The dark winding pathways and large open areas form a nearly impossible to traverse maze of faintly glowing crystal. The bottom half of the Spire is far more mysterious and dangerous than the floors above.
 
 D6 | Creatures
 :-: | :-:
-1 | Whale
+1 | Sperm Whale
 2 | Basking Shark
 3 | Anglerfish
 4 | Goblin Shark
 5 | Mantis Shrimp
 6 | Giant Squid
+7 | Siphonophore
+8 | Orca
+9 | Jellyfish
+10 | Oarfish
 
 D6 | Rooms
 :-: | :-:
@@ -51,18 +64,18 @@ D6 | Rooms
 5 | Ship Graveyard
 6 | Caverns with intricately carved walls
 
-D6 | Modifiers
-:-: | :-:
-1 | Vampiric
-2 | Magical
-3 | Mechanical
-4 | Teleporting
-5 | Glowing
-6 | Ethereal
-7 | Infinite
-8 | Decomposing
+D8 | Unusual attributes  
+:-: | :-: 
+1 | Vampiric  
+2 | Magical  
+3 | Mechanical  
+4 | Teleporting   
+5 | Glowing   
+6 | Ethereal  
+7 | Infinite   
+8 | Decomposing 
 
-#### Rumors
+### Rumors
 The lower spire is full of mysterious, and rumors run wild. Here are some rumours that the players might have heard
 
 D8 | There's a |   -    | that 
@@ -76,7 +89,7 @@ D8 | There's a |   -    | that
 7 | ancient   | guardian |  stalks you and poisons you in your sleep
 8 | Cursed    | shipwreck | moves in mysterious and unpredictable ways
 
-### Base city
+## Base city
 
 At the base of the spire is a sprawling city. Built from a combination of natural materials and the scraps of shipwrecks, this place is home to a large number of sea creatures. This bustling metropolis at the bottom of the sea is full of art, beauty, and love as well as corruption, violence, and desperation.
 
@@ -115,7 +128,7 @@ D8 | Personality
 7 | Paranoid
 8 | Flirtatious
 
-#### Jobs in the city
+### Jobs in the city
 
 There's no shortage of jobs to be done in the city. A vandal might want access to secure areas, a suitor might ask for rare jewels, or perhaps a bakery needs protection from a loan shark.
 
@@ -149,8 +162,7 @@ D6 | Complication
 6 | It must be kept secret
 
 
-
-#### Artifacts and Reward Assets
+### Rewards in The Spire
 
 D8 | Thingy | Thing | of | Stuff
 :-: | :-:   | :-:   | :-: | :-:
@@ -163,7 +175,8 @@ D8 | Thingy | Thing | of | Stuff
 7 | Ethereal | Hook | of | False Memories
 8 | Slimy | Barrel | of | Abundance
 
-#### Negative Aspects
+### Negative Aspects
+If you get incapacitated in The Spire, roll on the table for a negative aspect
 
 D10 | Aspect
 :-: | :-:

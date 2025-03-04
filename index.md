@@ -1,6 +1,12 @@
 ---
 title: Distorted Domains
+nav_order: 1
 ---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Introduction
 
 Distorted Domains is a Gonzo Science Fantasy Role Playing game for 2 or more players. One of the players takes the role of the Domain Manager, or DM. They are responsible for playing the world and the people in it. The other players take on the role of a Traveler, someone who journeys from domain to domain in search of something, encountering strange new places and helping interesting people with their problems.

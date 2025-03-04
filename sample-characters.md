@@ -1,3 +1,12 @@
+---
+#title: Sample Characters
+nav_order: 8
+---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Sample Characters
 
 ### Niera she/they

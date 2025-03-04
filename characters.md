@@ -1,3 +1,12 @@
+---
+title: Characters
+nav_order: 3
+---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Characters
 
 Characters in Distorted Domains are called Travelers, as they are people who travel through the many domains in search of something. They have 3 stats. Strong, Skilled, and Smart. These can represent what you are doing or how you are approaching a task.
@@ -140,7 +149,7 @@ D46 | thingy     | thing      | of  | stuff
 32  | Spiked     | Skillet    | of  | Song
 33  | Hairy      | Trombone   | of  | Shadow
 34  | Bone       | Chainsaw   | of  | the Void
-35  | Venomous   | Spatula    | of  | Shrinking
+35  | Venomous   | Spatula    | of  | Hardening
 36  | Delicious  | Chain      | of  | Meat
 41  | Floating   | Teapot     | of  | Shedding
 42  | Bedazzled  | Lantern    | of  | Regeneration
@@ -151,9 +160,9 @@ D46 | thingy     | thing      | of  | stuff
 
 Asset names are meant to be evocative and open to interpretation, a Delicious Gauntlet of Insects could be used to lure in tasty edible insects, or it could be a gauntlet that controls insects and is also coincidentally very tasty. Or it could be delicious in the broader sense, like an insect themed glove that is delightful. For each asset, the traveler who receives it should define what it is and how it works the first time they use it. From then on, the asset must follow that definition.
 
-#### Finishing Up
+### Finishing Up
 
-It's not at all necessary, but it can be helpful to answer some of the following questions about your character. Have each player choose or roll for a question for each of the Travelers other than their own.
+You now have a character with assets, aspects, and stats. This is enough to start playing, but if your group would like, you can answer some additional questions to learn more about your Travelers and how they're connected. Have each player select 3 of the questions below, and ask each one to a traveler of their choice.
 
 D12 | Question
 :-: | :-:
@@ -161,7 +170,7 @@ D12 | Question
 2 | Which fellow traveler makes you nervous?
 3 | What is your favorite food?
 4 | What incident led to you becoming a traveler?
-5 | Is there anyone you are trying to impress?
+5 | Who are you trying to impress?
 6 | What is most peoples first impression of you?
 7 | What are some of your hobbies?
 8 | Who was your childhood best friend?
@@ -170,4 +179,4 @@ D12 | Question
 11 | What artistic medium do you consume the most? (comics, music, tv shows, dream powder, etc)
 12 | Who would you die for, and who would you kill for?
 
-These questions, when combined with the aspects of your character can help you create a backstory and connections to other characters. The DM can use this information to give you more opportunities to explore who your character is and what they want. These also help you figure out your characters personality, outward appearance, and just overall vibe.
+These answers, when combined with the aspects of your character can help you create a backstory and connections to other characters. The DM can use this information to give you more opportunities to explore who your character is and what they want. These also help you figure out your characters personality, outward appearance, and just overall vibe.

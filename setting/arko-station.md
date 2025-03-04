@@ -1,6 +1,12 @@
 ---
 title: Arko Station
+parent: The Domains
 ---
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 # Arko Station
 
 A space station orbiting a black hole beyond its event horizon. The layout feels ever shifting and time can move faster or slower depending on what room you're in. The station is occupied by sentient dinosaurs who have no recollection of who built the station or how they got there. In the center there is a circular room with only one doorway, but you never seem to exit in the same place that you entered.
@@ -55,11 +61,31 @@ D8 |Spacetime Anomalies:
 7 | More or less time passing than would seem logical
 8 | Room where you can be walking on the floor or ceiling depending on where you entered 
 
-### The Forgotten Sectors
+## The Forgotten Sectors
 
 sometimes sections of the station become lost, losing all connections to the rest of the station. Forgotten sectors can't be found, instead they find you, with unusual doors and pathways that disappear if you look away too long. Such as a spiral staircase coming out of a wall, or a ladder inside a walk in freezer. The only way to escape the a forgotten sector is to hope that you live long enough for the station to release you. Forgotten Sectors often have a higher than normal occurence of spacetime anomalies, radiation, and other unidentified energies. Due to this, they are full of unusual and dangerous lifeforms.
 
-#### Rewards and Assets
+D8 | Forgotten Sector Creatures
+:-: | :-:
+1  | A corpse being controlled by parasitic worms
+2  | An unstable energy being
+3  | A sentient slime mold
+4  | A shadow being with too many limbs
+5  | An ambush predator with eyes everywhere
+6  | A melting mutant that feeds on life force
+7  | A virus that infects others through sound
+8  | A corrupted digital intelligence
+
+D6 | Forgotten Sector Dangers and Anomalies
+:-: | :-:
+1  | Mutating Radiation
+2  | Mind Altering Spores
+3  | Gravity Storms
+4  | Disappearing Doors
+5  | Rapid Aging
+6  | Extreme size changes
+
+## Rewards and Assets
 
 D8 | Thingy | Thing | of | Stuff
 :-: | :-:   | :-:   | :-: | :-:
@@ -72,7 +98,7 @@ D8 | Thingy | Thing | of | Stuff
 7 | Floral | Dress | of | Charisma
 8 | Delicious | Shell | of | Instability
 
-#### Negative Aspects
+## Negative Aspects
 If you get incapacitated in Arko Station, you can roll on this table for a negative aspect
 
 D10 | Aspect

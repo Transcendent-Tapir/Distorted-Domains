@@ -53,14 +53,12 @@ Use the table below to grant advancement based on the length of the adventure
 5         | 10           | 15           | 20
 
 
-Travelers have a goal, they are looking for something. The "looking for" aspect tells us what this is, and the higher that die is, the closer they are to finding it. Once it reaches a d12, they are able to find what it is they're looking for within the narrative. Once they do, that character is retired unless they are given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.
-
-
 Things you can do with your advancement points
 - Raise a stat die
 - Raise an aspect die
 - Create a new aspect
 - Lower a negative aspect
+- Save an Asset
 
 raising a die to a higher level requires more advancement points the higher you want it to go
 
@@ -80,6 +78,11 @@ New D4 Aspect | D4 -> D6 | D6 -> D8 | D8 -> D10 | D10 -> D12
 
 When Lowering negative aspects, it always costs 5. However, a negative aspect cannot be lowered below d4, there will always be a trace of it around.
 
+### Reaching your Goal
+
+Travelers have a goal, they are looking for something. The "looking for" aspect tells us what this is, and the higher that die is, the closer they are to finding it. Once it reaches a d12, they are able to find what it is they're looking for within the narrative. Once they do, that character is retired unless they are given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.
+
+
 ### Saving Assets
 
 Assets in Distorted Domains degrade over time, if a player or Traveler wants to save or restore an asset it costs 5 advancement. This returns the asset to the die rating that it had at the beginning of the session, or the die rating of when it was acquired if it was acquired this session.
@@ -89,3 +92,4 @@ A temporary asset can also be made permanent with 5 advancement.
 ### Upgrading Assets
 
 Upgrading Assets is not done with advancement, this can only be done within the fiction of the game. If a player would like their asset die to be upgraded beyond the standard die rating, they must seek out someone or something that can make that asset better. Someone like an enchanter, an engineer, a blacksmith. They can also use a rare item such as a gemstone of beguiling, or the crystalline vapors of a deep sea thermal vent.
+

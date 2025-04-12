@@ -46,6 +46,8 @@ points are gained by:
 - Working toward your individual goals
 - Finishing an adventure
 
+If your character has a major dramatic moment involving a personal goal, whether that's the goal slipping from their fingertips or making a major step towards it, they gain 5 advancement at the end of the session.
+
 Use the table below to grant advancement based on the length of the adventure
 
 1 Session | 2-3 Sessions | 4-6 Sessions | 7+ Sessions

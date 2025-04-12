@@ -82,7 +82,7 @@ When Lowering negative aspects, it always costs 5. However, a negative aspect ca
 
 ### Reaching your Goal
 
-Travelers have a goal, they are looking for something. The "looking for" aspect tells us what this is, and the higher that die is, the closer they are to finding it. Once it reaches a d12, they are able to find what it is they're looking for within the narrative. Once they do, that character is retired unless they are given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6.
+Travelers have a goal, they are looking for something. The "looking for" aspect tells us what this is, and the higher that die is, the closer they are to finding it. Once it reaches a d12, they are able to find what it is they're looking for within the narrative. Once they do, that character is retired unless they are given a new goal of some kind, a reason to keep going. The easiest way to do this is to re-roll on the "Looking for" table in character creation. This new goal starts at a d6. Reaching your goal doesn't cost or reward your Traveler any advancement, it functions as an opportunity to end their story or to start a new chapter.
 
 
 ### Saving Assets
